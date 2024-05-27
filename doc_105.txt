@@ -1,0 +1,13 @@
+Statuss: zaudējis spēku
+Valsts ieņēmumu dienesta rīkojums Nr. 3
+Rīgā 2000. gada 5. janvārī
+Lai turpinātu Latvijas muitas iestāžu pāreju darbam ar muitas deklarāciju automatizētās apstrādes sistēmu ASYCUDA, nosaku:
+1. Uzsākt preču izvešanas (EK), ievešanas (IM) un tranzīta (T1) procedūru muitas deklarāciju noformēšanu ar ASYCUDA VID Liepājas nodaļas ostas MKP (muitas iestādes kods 0411) ar 2000. gada 5. janvāri.
+2. Muitas deklarāciju noformēšanā ar ASYCUDA ievērot šādu kārtību:
+2.1. muitas deklarāciju veidlapas muitas iestādē apstiprina, izmantojot atbilstošās muitas iestādes zīmogu, kā noteikts VID ģenerāldirektora 1999. gada 27. aprīļa rīkojumā Nr. 242 "Par muitas zīmogiem".
+2.2. muitas iestādes iekšējai informācijas apritei, kā arī informācijas apmaiņai ar deklarētāju lietot īpašas veidlapas un datorizdrukas. Šo veidlapu un datorizdruku paraugi, kā arī to aizpildīšanas kārtība ir noteikta ar VID ģenerāldirektora 1999. gada 2. jūnija rīkojumu Nr. 321 "Par ASYCUDA sistēmas veidlapu un datorizdruku apstiprināšanu".
+3. Teritoriālo iestāžu vadībai nodrošināt visu to pakļautībā esošo muitas iestāžu amatpersonu informēšanu, lai nepieļautu nepamatotu aizkavēšanos, pieņemot ar ASYCUDA Liepājas ostas MKP noformētas muitas deklarācijas.
+4. Galvenajai muitas pārvaldei par darba uzsākšanu Liepājas ostas MKP ar ASYCUDA informēt Iekšlietu ministriju un kaimiņvalstu muitas dienestus.
+5. Rīkojumu publicēt laikrakstā "Latvijas Vēstnesis".
+Valsts ieņēmumu dienesta ģenerāldirektors A.Sončiks
+Par darba uzsākšanu ar ASYCUDA sistēmu

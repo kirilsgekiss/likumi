@@ -1,0 +1,251 @@
+Statuss: zaudējis spēku
+Valsts ieņēmumu dienesta rīkojums Nr.59
+Rīgā 2000.gada 21.janvārī
+1. Apstiprinu "Metodiskos norādījumus par darba ņēmēju valsts sociālās apdrošināšanas iemaksām".
+2. Rīkojumu un ar šo rīkojumu apstiprinātos metodiskos norādījumus publicēt laikrakstā "Latvijas Vēstnesis".
+3. Apstiprinātie metodiskie norādījumi piemērojami no 2000.gada 1.janvāra.
+4. Atzīt par spēku zaudējušu 1999.gada 14.maija Valsts ieņēmumu dienesta vēstuli Nr.15.1.2./6696 par darba ņēmēju valsts sociālās apdrošināšanas obligātajām iemaksām.
+Valsts ieņēmumu dienesta ģenerāldirektors A.Sončiks
+Izdoti saskaņā ar likuma "Par nodokļiem un nodevām" 5.panta otro daļu
+un likuma "Par valsts ieņēmumu dienestu" 8.panta 4.punktu
+ 
+Metodiskie norādījumi nosaka, kā piemērojamas likuma "Par valsts sociālo apdrošināšanu" normas, kuras attiecas uz:
+* darba ņēmēja statusu no valsts obligātās sociālās apdrošināšanas viedokļa;
+* likmi konkrētai personai, aprēķinot sociālās apdrošināšanas iemaksas;
+* iemaksu objektu, no kura tiek aprēķinātas valsts sociālās apdrošināšanas obligātās iemaksas (turpmāk - sociālās iemaksas).
+Šo norādījumu mērķis ir sniegt metodisku palīdzību fiziskām un juridiskām personām, kurām ir jāaprēķina un jāizdara sociālās iemaksas par darba ņēmējiem, kā arī Valsts ieņēmumu dienesta amatpersonām vienotas normu izpratnes veidošanai un vienotai normu piemērošanai.
+I daļa. Maksātāji
+1. Termini "darba devējs" un "darba ņēmējs" ir izskaidroti likuma "Par valsts sociālo apdrošināšanu" (turpmāk - Likums) 1.panta 1. un 2.punktā. Likuma 1.panta 2.punkta normas attiecas uz visām personām - gan iekšzemes, gan ārvalstu nodokļu maksātājiem, kurus nodarbina darba devējs - iekšzemes nodokļu maksātājs.
+2. Lai iegūtu darba ņēmēja statusu valsts sociālās apdrošināšanas izpratnē un persona tiktu pakļauta valsts obligātajai sociālajai apdrošināšanai, tai ir jābūt sasniegušai 15 gadu vecumu.
+3. Darba ņēmēja statuss tiek noteikts tikai saskaņā ar Likuma normām, nevis kādiem citiem kritērijiem.
+Piemērs. Ja zemnieku saimniecības īpašnieks, kas pats vada savu uzņēmumu, nosaka sev algu, tad tas nenozīmē, ka viņš ir darba ņēmējs, jo, pēc Likuma nosacījumiem, viņš pēc statusa ir pašnodarbinātais.
+4. Kā to paredz Likums, darba ņēmējs ir persona, kura ir darba attiecībās ar darba devēju saskaņā ar Latvijas darba likumu kodeksu.
+4.1. Latvijas darba likumu kodekss paredz, ka darba devējam un darbiniekam ir jāslēdz rakstveida vienošanās - darba līgums. Ar to darbinieks uzņemas veikt noteiktu darbu, pakļaujoties iekšējai darba kārtībai un darba devēja rīkojumiem, bet darba devējs nodrošina darba samaksu un darbam nepieciešamos apstākļus.
+Darba līgumu var noslēgt:
+* uz nenoteiktu laiku;
+* uz noteiktu laiku;
+* uz noteikta darba izpildīšanas laiku.
+4.2. Darbinieki var būt kā Latvijas Republikas pilsoņi un pastāvīgie iedzīvotāji, tā arī ārvalstnieki. Latvijas darba likumu kodeksa 19.pantā ir paredzēts, ka ar ārvalstnieku vai bezvalstnieku, kas nav Latvijas Republikas pastāvīgais iedzīvotājs, darba līgumu var noslēgt tikai tad, ja viņam ir uzturēšanās atļauja, kas dod tiesības strādāt.
+4.3. Atšķirīgi ir jāvērtē gadījumi, kad darbā ir pieņemts ārvalstnieks, kurš, veicot savus pienākumus darba devēja - rezidenta - labā, Latvijas Republikā neiebrauc. Tādā gadījumā jānosaka, pēc kādas valsts normatīvajiem aktiem ir noslēgts darba līgums ar konkrēto personu. Ja darba līgums ir slēgts pēc Latvijas Republikas likumiem, tad šī persona, Likuma izpratnē, ir darba ņēmējs, un par to ir jākārto sociālās iemaksas. Ja darba līgums ir slēgts pēc tās valsts normatīvajiem aktiem, kurā ārvalstnieks uzturas un izpilda darbu, tad Latvijas Republikā sociālās apdrošināšanas iemaksas nav jākārto.
+4.4. Saskaņā ar likuma "Par nodarbinātību" 13.pantu, bezdarbnieki tiek nodarbināti algotos pagaidu sabiedriskajos darbos un ar viņiem tiek noslēgts darba līgums. Tādējādi arī pašvaldībai (pasūtītājam), izmaksājot darba līgumā paredzēto atlīdzību bezdarbniekam, par viņu jākārto sociālās iemaksas kā par darba ņēmēju.
+4.5. Citāda situācija ir ar mācību iestāžu audzēkņiem, kuri tiek nosūtīti praksē uz uzņēmumiem un tiek slēgts līgums starp mācību iestādi un uzņēmumu, nevis darba līgumi ar konkrētām personām. Tādā gadījumā mācību iestāžu audzēkņi nav darba ņēmēji un sociālās iemaksas par viņiem nav jākārto.
+5. Saskaņā ar Likumu darba ņēmējs ir uzņēmuma (uzņēmējsabiedrības) īpašnieks (īpašnieki), kas, nebūdams darba tiesiskajās attiecībās ar sava uzņēmuma (uzņēmējsabiedrības) pārvaldes institūciju, veic šā uzņēmuma (uzņēmējsabiedrības) operatīvās vadības funkciju, ja šajā uzņēmumā (uzņēmējsabiedrībā) likumā noteiktā kārtībā nav iecelts (ievēlēts) pārvaldnieks (direktors), izņemot zemnieku (zvejnieku) saimniecības īpašnieku.
+5.1. Tas attiecas uz fiziskām personām - gan rezidentiem, gan nerezidentiem - , kuras veic operatīvās vadības funkcijas sev piederošā uzņēmumā, kurš reģistrēts Latvijas Republikas Uzņēmumu reģistrā. Tie ir individuālo uzņēmumu (I/U) īpašnieki un sabiedrību ar ierobežotu atbildību (SIA) īpašnieki, kuri nav pilnvarojuši citu personu vadīt sev piederošo uzņēmumu (uzņēmējsabiedrību), bet paši veic izpildinstitūcijas funkcijas.
+5.2. Tā kā uzņēmējdarbību regulējošie normatīvie akti paredz, ka uzņēmumā vienmēr ir jābūt izpildinstitūcijai vai izpildpersonai, tad uzskatāms - ja uzņēmumā nav norādīta kāda cita persona kā uzņēmuma direktors vai pārvaldnieks, tad šīs funkcijas veic uzņēmuma īpašnieks. Ja uzņēmums ir SIA, tad direktors tiek norādīts sabiedrības statūtos (saskaņā ar likumu "Par sabiedrībām ar ierobežotu atbildību"), ja I/U - tad pilnvarojums uzņēmuma īpašnieka vārdā rīkoties ar uzņēmuma mantu un pārstāvēt uzņēmuma īpašnieku tiek fiksēts statūtos vai nolikumā. Ja uzņēmums nepieņem statūtus vai neizstrādā nolikumu, šis pilnvarojums tiek fiksēts direktora vai pārvaldnieka darba līgumā (saskaņā ar likumu "Par individuālo (ģimenes) uzņēmumu, zemnieka vai zvejnieka saimniecību un individuālo darbu").
+5.3. Ja SIA ir vairāki īpašnieki, tad darba ņēmējs ir tikai tas īpašnieks, kurš nav noslēdzis ar sev piederošo SIA darba līgumu, bet šīs personas vadības funkciju nosaka SIA statūti, dibināšanas līgums vai citi dibināšanas dokumenti.
+5.4. Zemnieku (zvejnieku) saimniecības īpašnieki nav darba ņēmēji, jo, saskaņā ar Likuma 1.panta 3.punkta i apakšpunktu, viņi ir uzskatāmi par pašnodarbinātajiem. Ja šāds īpašnieks ir pilnvarojis citu personu vadīt savu uzņēmumu un pats strādā savā uzņēmumā uz darba līguma pamata, viņš kļūst par darba ņēmēju (Likuma 1.panta 2.punkta a apakšpunkts).
+5.5. Ja uzņēmuma īpašnieks ir pilnvarojis citu personu vadīt uzņēmumu, kā arī nav noslēdzis darba līgumu ar savu uzņēmumu, tad viņš nav pakļauts valsts sociālajai apdrošināšanai un sociālās iemaksas neveic.
+6. Darba ņēmējs ir Saeimas deputāts, pašvaldības deputāts, Ministru kabineta loceklis, valsts (pašvaldību) pilnvarnieks, uzņēmējsabiedrības valdes, padomes loceklis, kā arī cita persona, kura ieņem amatu, kas dod tiesības uz atlīdzību.
+Ir iespējami gadījumi, kad persona ieņem Likumā tieši nenosauktu amatu, neslēdz darba līgumu, taču saņem atlīdzību par amata pienākumu pildīšanu. Viņa ir uzskatāma par darba ņēmēju, pamatojoties uz to, ka Likumā dotais amatu uzskaitījums nav galīgs, bet ir sniegta norāde, ka darba ņēmējs ir arī cita persona, kura ieņem amatu, kas dod tiesības uz atlīdzību.
+Piemērs. Saskaņā ar Reliģisko organizāciju likuma 1.pantu, par reliģisko organizāciju amatpersonām tiek uzskatīti šo organizāciju vēlēto institūciju (padomes, valdes un revīzijas komisijas) locekļi, kā arī garīgais personāls (arhibīskaps, bīskaps, mācītājs, priesteris, diakons, rabīns u.c.). Kārtību, kādā mācītājs iegūst amatu, nosaka minētā likuma 14.panta pirmā daļa - reliģiskās organizācijas savu garīgo personālu ievēl vai ieceļ amatā un atbrīvo no tā saskaņā ar statūtiem (Satversmi, nolikumu). Tādējādi, saskaņā ar Likumu arī garīgais personāls tiek uzskatīts par darba ņēmēju.
+7. Darba ņēmējs ir persona, kura ir noslēgusi Civillikumā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un nav reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja.
+7.1. Jāvērš uzmanība uz to, ka šajā gadījumā persona ir darba ņēmējs tikai tad, ja tā nav reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja. Ja persona būs reģistrējusies kā saimnieciskās darbības veicēja, tad sociālās iemaksas no minētajos līgumos paredzētajām atlīdzībām tā kārtos pati. Šis ir vienīgais gadījums, kad pašnodarbinātā statuss ir primārs attiecībā pret darba ņēmēja statusu.
+7.2. Graudniecības līgums ir īpašs darba attiecību veids, kurā graudnieks izpilda darbu ar savu darbaspēku un saviem darbarīkiem, par atlīdzību saņemot noteiktu daļu ražas.
+7.3. Ar uzņēmuma līgumu viena puse uzņemas izpildīt otrai par zināmu atlīdzību ar saviem darba rīkiem un ierīcēm kādu pasūtījumu, izgatavot kādu lietu vai izvest galā kādu pasākumu. Noteicošais ir darba rezultāts, kas tiek panākts noteiktā termiņā par noteiktu atlīdzību, taču nenosakot darbalaiku.
+7.4. Pārvadājuma līgums ir uzņēmuma līguma īpašs veids, kur pārvadātājs par norunātu maksu uzņemas nosūtītāja nodotās lietas pārvest no vienas norādītas vietas uz otru norādītu vietu un tur tās nodot adresātam.
+8. Darba ņēmējs ir Iekšlietu ministrijas pakļautībā un pārraudzībā esošas iestādes ierindas vai komandējošā sastāva darbinieks vai Aizsardzības ministrijas pakļautībā un pārziņā esošas struktūrvienības militārpersona.
+Iekšlietu ministrijas pakļautībā un pārraudzībā esošās iestādes ir uzskaitītas Ministru kabineta 1995.gada 18.jūlija noteikumos Nr.223 "Iekšlietu ministrijas nolikums".
+Savukārt Aizsardzības ministrijas pakļautībā un pārziņā esošās iestādes ir minētas Ministru kabineta 1996.gada 24.septembra noteikumos Nr.361 "Aizsardzības ministrijas nolikums".
+Par valsts drošības iestāžu sociālās apdrošināšanas iemaksu kārtību 1998.gada 4.novembrī ir pieņemti Ministru kabineta noteikumi Nr.431 "Valsts sociālās apdrošināšanas obligāto iemaksu veikšanas un valsts sociālo pakalpojumu piešķiršanas kārtība valsts drošības iestādēs".
+9. Darba ņēmējs ir valsts civildienesta ierēdnis (ierēdņa kandidāts).
+Civildienesta attiecības, saskaņā ar likumu "Par valsts civildienestu", nodibina valsts civiliestādes vadītāja rīkojums par ierēdņa (ierēdņa kandidāta) iecelšanu amatā.
+10. Likuma 1.panta 3.punktā ir skaidrots jēdziens "pašnodarbinātais", kur noteikts, ka līdz 2001.gada 1.janvārim persona nevar vienlaikus tikt uzskatīta par darba ņēmēju un pašnodarbināto. Ja persona ir darba ņēmēja statusā, tas ir - atbilst kādam no iepriekš aprakstītajiem nosacījumiem un vienlaikus gūst ienākumus kā pašnodarbinātais, tad sociālās iemaksas ir jākārto tikai no tiem ienākumiem, kurus persona ir guvusi kā darba ņēmējs. Vienīgais izņēmums, kad persona veic sociālās iemaksas no ienākumiem, kurus guvusi kā pašnodarbinātais, bet neveic sociālās iemaksas no ienākumiem, kurus guvusi kā darba ņēmējs, ir aprakstīts I daļas 7.punktā.
+11. No 2001.gada 1.janvāra persona var būt gan darba ņēmējs, gan pašnodarbinātais. Ja persona vienlaikus gūst ienākumus kā darba ņēmējs un kā pašnodarbinātais, sociālās iemaksas jākārto no visiem ienākumiem.
+12. Likumā, bez darba ņēmējiem un pašnodarbinātajiem, ir minētas vēl divas iespējamās maksātāju kategorijas:
+* iekšzemes darba ņēmējs pie darba devēja ārvalstnieka - persona, kuru Latvijas Republikas teritorijā nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šo personu pastāvīgā dzīvesvieta ir Latvijas Republikā.
+* ārvalstu darba ņēmējs pie darba devēja ārvalstnieka - persona, kuru nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šīs personas pastāvīgā dzīvesvieta nav Latvijas Republikā un tā uzturas Latvijas Republikā 183 dienas vai ilgāk jebkurā 12 mēnešu periodā, kas sākas vai beidzas taksācijas gadā.
+Ja persona atbilst kādai no minētajām maksātāju kategorijām un vienlaicīgi uzskatāma arī par darba ņēmēju, tad sociālās iemaksas jāveic no visiem ienākumiem.
+II daļa. Likme
+1. Likumā ir noteikti pieci valsts sociālās apdrošināšanas veidi:
+* valsts pensiju apdrošināšana;
+* sociālā apdrošināšana bezdarba gadījumam;
+* sociālā apdrošināšana pret nelaimes gadījumiem darbā un arodslimībām;
+* invaliditātes apdrošināšana;
+* maternitātes un slimības apdrošināšana.
+2. Sociālo iemaksu likme personai ir atkarīga no valsts sociālās apdrošināšanas veidiem, kuriem persona ir pakļauta (sk. 1.tabulu)
+3. Vispārējā gadījumā darba ņēmējs tiek apdrošināts visiem valsts sociālās apdrošināšanas veidiem un sociālo iemaksu likme ir noteikta Likumā. Sākot ar 2000.gada 1.janvāri tā ir 36,09 procenti (ņemot vērā arī darba negadījumu apdrošināšanas obligāto iemaksu likmi), no kuriem 27,09 procentus maksā darba devējs, bet 9 procentus - darba ņēmējs. Ar 2001.gada 1.janvāri sociālo iemaksu likme ir 35 procenti (neieskaitot darba negadījumu apdrošināšanas likmi), no kuriem 26 procentus maksā darba devējs un 9 procentus - darba ņēmējs.
+4. Ja darba ņēmējs ir sasniedzis vecumu, kas dod tiesības uz valsts vecuma pensiju, vai ir I vai II grupas invalīds, viņš ir pakļauts tikai šādiem valsts sociālās apdrošināšanas veidiem (Likuma 6.panta otrā daļa):
+* valsts pensiju apdrošināšanai;
+* maternitātes un slimības apdrošināšanai;
+* sociālā apdrošināšanai pret nelaimes gadījumiem darbā un arodslimībām.
+5. Sociālo iemaksu likme šiem darba ņēmējiem tiek noteikta, summējot katru gadu noteiktās likmes pensiju, maternitātes un slimības un darba negadījumu apdrošināšanai.
+6. Sociālo iemaksu likmes sociāli apdrošināmajām personām, kā arī likmes atsevišķiem apdrošināšanas veidiem tiek noteiktas katru gadu Ministru kabineta noteikumos:
+1) 09.12.1997. Nr.408 "Noteikumi par valsts sociālās apdrošināšanas obligāto iemaksu likmes sadalījumu pa valsts sociālās apdrošināšanas veidiem 1998.gadā";
+2) 15.12.1998. Nr.462 "Noteikumi par valsts sociālās apdrošināšanas obligāto iemaksu likmes sadalījumu pa valsts sociālās apdrošināšanas veidiem 1999.gadā";
+3) 16.11.1999. Nr.388 "Noteikumi par valsts sociālās apdrošināšanas obligāto iemaksu likmes sadalījumu pa valsts sociālās apdrošināšanas veidiem 2000.gadā".
+7. Vecums, kas dod tiesības uz valsts vecuma pensiju, ir noteikts likuma "Par valsts pensijām" 11. panta pirmajā daļā un Pārejas noteikumu 8.punktā. Tas ir:
+* sievietēm ar katra gada 1.jūliju pensijas vecums palielinās par pusgadu, līdz tas sasniedz 62 gadus. Tādējādi pensijas vecums sievietēm no 1999.gada jūlija līdz 2000.gada jūlijam ir 57,5 gadi, bet no 2000.gada jūlija līdz 2001.gada jūlijam būs 58 gadi utt. (sk.2.tabulu).
+*vīriešiem līdz 1999.gada 31.decembrim - 60 gadi. Ar 2000.gada 1.janvāri pensijas vecums pieaug pakāpeniski - ar katra gada 1.janvāri tas palielinās par sešiem mēnešiem, līdz sasniedz 62 gadus (sk.3.tabulu).
+8. Sievietēm, kuru apdrošināšanas stāžs nav mazāks par 30 gadiem, divus gadus pirms noteiktā pensijas vecuma sasniegšanas ir tiesības vecuma pensiju pieprasīt priekšlaikus. Vīriešiem ir tiesības vecuma pensiju pieprasīt priekšlaikus, ja sasniegts 60 gadu vecums un apdrošināšanas stāžs nav mazāks par 30 gadiem. Līdz pensijas vecuma sasniegšanai nav iespējams vienlaikus strādāt un saņemt pensiju. Ja personai priekšlaikus ir aprēķināta pensija, bet tā turpina strādāt, sociālo iemaksu likme no 2000.gada 1.janvāra ir 36.09% (27,09% maksā darba devējs, 9% - darba ņēmējs).
+9. Personām, kurām ir piešķirta valsts vecuma pensija pēc atvieglotiem noteikumiem, t.i.:
+* par darbu sevišķi kaitīgos darba apstākļos;
+* par darbu kaitīgos un smagos darba apstākļos;
+* sievietēm, kurām ir pieci un vairāk bērnu;
+* mātēm, kuru bērni ir invalīdi kopš bērnības;
+* liliputiem, punduriem un neredzīgajiem,
+sociālo iemaksu likme ir tāda pati kā personām, kuras sasniegušas vecumu, kas dod tiesības uz valsts vecuma pensiju (28,48%). Ja personai ir tiesības uz vecuma pensiju pēc atvieglotiem noteikumiem, bet tā nav piešķirta, piemēro likmi kā vispārējā gadījumā (36,09 %).
+10. Personas, kas saņem izdienas pensiju, kā arī ārvalstnieki, kas sasnieguši ārvalstīs noteikto pensijas vecumu, tiek apdrošināti visiem apdrošināšanas veidiem un tiem tiek piemērota 36,09% likme.
+11. Vai personai ir piemērojama pazemināta iemaksu likme, ir noskaidrojams:
+* pēc personas koda, ja persona ir sasniegusi vecumu, kas dod tiesības uz valsts vecuma pensiju;
+* pēc ieraksta pensijas grāmatiņā, ja persona saņem vecuma pensiju pēc atvieglotiem noteikumiem;
+* pēc ieraksta pensijas grāmatiņā vai pēc darba ekspertīzes ārstu komisijas (DEĀK) akta, ja persona ir I vai II grupas invalīds. Invaliditāte bieži tiek piešķirta uz noteiktu termiņu, ko norāda gan pensijas grāmatiņā, gan DEĀK aktā. Ja termiņš ir beidzies, bet persona neuzrāda dokumentus par invaliditātes pagarināšanu, tai piemērojama pilna sociālo iemaksu likme;
+* pēc atzīmes algas nodokļa grāmatiņā.
+1.tabula
+Valsts sociālo iemaksu likmes (%) 2000.gadā atkarībā no darba ņēmēja statusa
+2.tabula
+Pensionēšanās vecums sievietēm
+3.tabula
+Pensionēšanās vecums vīriešiem
+III daļa. Sociālo iemaksu objekts
+1. Darba ņēmēju un darba devēju sociālo iemaksu objekts ir visi algotā darba ienākumi, no kuriem jāietur algas nodoklis jeb iedzīvotāju ienākuma nodoklis no algotā darba ienākumiem. Nosakot sociālo iemaksu objektu no algotā darbā gūtā ienākuma, netiek atskaitīts iedzīvotāju ienākuma nodokļa neapliekamais minimums, nodokļu atvieglojumi un attaisnotie izdevumi.
+Sociālo iemaksu objekts ir tikai algota darba ienākumi, ko darbinieks gūst no darba devēja uz darba attiecību pamata periodā, kurā viņš, saskaņā ar Likumu, uzskatāms par darba ņēmēju. Bijušās darba attiecības netiek ņemtas vērā.
+2. Sociālās iemaksas no algota darba ir jākārto par šādiem izmaksu veidiem:
+2.1. darba alga, piemaksas pie darba algas, slimības nauda (par darbnespējas lapu A);
+2.2. prēmijas (darbinieku materiālā stimulēšana);
+2.3. vienreizēja un sistemātiska atlīdzība;
+2.4. atlīdzība par valsts dienesta izpildi;
+2.5. pabalsti, kurus izmaksā darba devējs:
+2.5.1. atlaišanas pabalsti;
+2.5.2. apbedīšanas pabalsti, kuru vērtība pārsniedz Ls 150;
+2.5.3. saskaņā ar likumu "Par valsts civildienestu" izmaksātie pabalsti ierēdņiem;
+2.5.4. un citi pabalsti;
+2.6. dāvanas un balvas, kuru kopējā vērtība taksācijas gadā pārsniedz minimālās mēnešalgas apmēru;
+2.7. stipendijas.
+Darba devēja stipendijas, kas izmaksātas vidējo speciālo mācību iestāžu dienas nodaļu un arodizglītības mācību iestāžu audzēkņiem, augstāko mācību iestāžu studentiem, doktorantiem un habilitācijas doktorantiem (neatkarīgi no tā, vai stipendijas izmaksa tiek veikta darba vietā vai arī pārskaitot uz mācību iestādi);
+2.8. kompensācija par neizmantoto atvaļinājumu atlaišanas gadījumā;
+2.9. komandējumi.
+Darbiniekiem izmaksātā komandējuma (darba brauciena) dienasnauda un darba brauciena gadījumā - arī izdevumi par viesnīcu, kas pārsniedz Ministru kabineta 1996.gada 25.jūnija noteikumos Nr.233 "Kārtība, kādā atlīdzināmi ar komandējumiem un darbinieku darba braucieniem saistītie izdevumi" norādītās normas;
+2.10. izklaides pasākumi, atpūtas ceļojumi un veselības uzlabošanas pasākumi.
+Šie darba devēja dotie labumi darbiniekam tiek uzskatīti par sociālo iemaksu objektu, ja tos ir iespējams personificēt;
+2.11. izglītība.
+Darba devēja samaksātās mācības, pēc kurām darbinieks saņem diplomu, kurš apliecina vispārējās vidējās vai vidējās speciālās izglītības, arodizglītības, bakalaura, maģistra, doktora un habilitēta doktora grāda vai augstākās izglītības iegūšanu. Izglītojošie pasākumi, kas nav nepieciešami amata pienākumu pildīšanai;
+2.12. transportlīdzekļa izmantošana.
+Darba devēja samaksa par darbinieka personiskā transportlīdzekļa izmantošanu, ietverot minētajā samaksā atlīdzību par transportlīdzekļa nolietojumu, profilaktisko apkopi un remontu, ja darba devējs un darbinieks nav noslēguši nomas līgumu par darbinieka personiskā transportlīdzekļa izmantošanu darba vajadzībām;
+2.13. degviela.
+Samaksa par izmantoto degvielu, ja nav uzrādītas maršruta kartes un pievienoti dokumenti, kas apliecina attaisnotu degvielas iegādi atbilstoši maršruta kartēm (ārējie attaisnojuma dokumenti);
+2.14. reprezentācijas.
+Līdzekļi, ko darba devējs darbiniekam piešķīris uzņēmuma (uzņēmējsabiedrības), organizācijas, iestādes vai amata reprezentācijas izdevumiem, ja tie nav apliecināti ar attaisnojuma dokumentiem, kuros uzrādīts minētais izlietojums;
+2.15. ēdināšanas izdevumi.
+No darba devēja līdzekļiem segtie darbinieku ēdināšanas izdevumi, izņemot likuma "Par darba aizsardzību" 23.pantā noteiktajos gadījumos;
+2.16. darba devēja dotais labums darbinieka personīgajam patēriņam, kas izpaužas īpašuma nodošanas vai īpašuma lietošanas tiesību nodošanas veidā vai sniegto vai apmaksāto pakalpojumu veidā;
+2.17. komunālie pakalpojumi un elektroenerģija.
+No darba devēja līdzekļiem segtā maksa par darbinieka saņemtajiem komunālajiem pakalpojumiem un patērēto elektroenerģiju;
+2.18. tālruņu abonēšanas un sarunu maksa.
+No darba devēja līdzekļiem segtā darbinieka tālruņa abonēšanas, telefona sarunu, faksa, telekartes pakalpojumu maksa, ja šos izdevumus nevar attiecināt uz ražošanas tiešajiem izdevumiem;
+2.19. īres maksa.
+No darba devēja līdzekļiem segtā maksa par dzīvojamo telpu īri, arī par vasarnīcas, garāžas un saimniecības ēku īri;
+2.20. mājsaimniecībā nepieciešamā personāla algošana.
+Darba devēja apmaksāti izdevumi, kas saistīti ar mājsaimniecībai nepieciešamā personāla algošanu;
+2.21. braukšanas biļetes.
+Darba devēja apmaksātās braukšanas biļetes sabiedriskajā transportā, ja tās nav paredzētas darbinieka amata pienākumu pildīšanai;
+2.22. pārtikas un nepārtikas preču iegāde.
+No darba devēja līdzekļiem samaksātās summas pārtikas un nepārtikas preču iegādei, kas paredzētas darbinieku un viņu ģimenes locekļu personīgajam patēriņam;
+2.23. starpība starp darbinieka noguldījumam noteikto procentu likmi un kredītiestādes noteikto noguldījuma parasto procenta likmi, ja darba devējs noteicis darbinieka noguldījumam augstākus noguldījuma procentus par attiecīgajā kredītiestādē noteiktajiem parastajiem noguldījuma procentiem. Šis nosacījums attiecas tikai uz kredītiestāžu darbiniekiem;
+2.24. no darba devēja konta kredītiestādē apmaksātie izdevumi, ja darbinieks nav atmaksājis darba devējam šos izdevumus;
+2.25. un citi darbinieka labā izdarītie darba devēja maksājumi vai labumi.
+3. Sociālās iemaksas nav jākārto no šādiem izmaksu veidiem:
+3.1. iemaksas privātajos pensiju fondos atbilstoši licencētajiem pensiju plāniem (turpmāk privātie pensiju fondi), apdrošināšanas prēmijas (par veselības un nelaimes gadījumu apdrošināšanas līgumu uzskatāms arī līgums ar Slimokasi), ja ir izpildīti Likumā izvirzītie nosacījumi, kas aprakstīti IV daļā;
+3.2. darba devēja obligātie apdrošināšanas prēmiju maksājumi par darbiniekiem tiesību aktos noteiktajos gadījumos;
+3.3. kompensācijas.
+Kompensāciju izmaksas likumos un Ministru kabineta noteikto normu ietvaros, izņemot kompensāciju par neizmantoto atvaļinājumu.
+Piemērs. Likuma "Par valsts civildienestu" 40.pantā noteiktās kompensācijas par mācību maksu 50% apmērā no samaksātās summas;
+3.4. atlīdzība par darbā gūto kaitējumu, kas saistīta ar sakropļojumu vai citādu veselības bojājumu.
+Ja atlīdzība izmaksāta par kaitējumu, kurš gūts laikposmā līdz 1997.gada 1.janvārim, vai darbinieka nāves gadījumā - par darba devēja izmaksātu atlīdzību darbinieka apgādībā bijušajām personām;
+3.5. ienākumi, kas pārsniedz Ministru kabineta noteikto gada maksimālo sociālo iemaksu objektu;
+3.6. apgāde natūrā, ko nosaka Ministru kabinets.
+Piemērs. Šāda apgāde natūrā paredzēta zivsaimniecības un tirdzniecības flotes kuģu komandām, kas, pildot darba pienākumus, nepārtraukti atrodas uz kuģa ne mazāk par 48 stundām, un kuras ēdina darba devējs par saviem līdzekļiem, un šī ēdināšana nav aizstājam ar kompensāciju naudā;
+3.7. darba devēja izdevumi par darbinieka ēdināšanu, speciālo apģērbu, speciālajiem apaviem, darbinieku iepriekšējām un periodiskajām medicīniskajām apskatēm likuma "Par darba aizsardzību" 23.pantā noteiktajos gadījumos - darba devējam ir pienākums nodrošināt darbiniekus, kuri strādā:
+* smagos, veselībai kaitīgos, bīstamos darbos un citos darbos, kur tas ir noteikts likumdošanas aktos, iepriekšējas un periodiskas medicīniskas apskates, kā arī segt ar to organizēšanu saistītos izdevumus;
+* kaitīgos darba apstākļos un darbos, kas noris sevišķos meteroloģiskos apstākļos, - ar specapģērbiem, specapaviem un citiem individuālajiem aizsardzības līdzekļiem, nodrošināt to izmantošanu paredzētajam nolūkam, kā arī uzglabāšanu, mazgāšanu, žāvēšanu, tīrīšanu, dezinfekciju, degazāciju, dezaktivizāciju un labošanu;
+* kaitīgos darba apstākļos - ar pienu vai citiem līdzvērtīgiem pārtikas produktiem;
+* sevišķi smagos vai kaitīgos apstākļos - ar ārstnieciski profilaktisko uzturu;
+* darbos, kur iespējama kaitīgo vielu iedarbība uz ādu, - ar mazgājamiem un neitralizējošiem līdzekļiem;
+* karstos cehos - ar sālīto gāzēto ūdeni;
+3.8. izglītība.
+Darba devēja segtie izdevumi par darbinieku apmācību (darbā, profesijā, amatā, nepieciešamo iemaņu iegūšanai un uzlabošanai, kā arī zināšanu paplašināšanai) un profesionālās sagatavotības paaugstināšanu;
+3.9. izdevumi, ko darba devējs sedz sešus mēnešus pēc darbinieka norīkošanas darbā uz citu darba devēja norādītu vietu, veicot maksājumus par darbinieka iepriekšējā dzīvokļa īri un komunālajiem pakalpojumiem, ja darbinieka ģimene paliek iepriekšējā dzīves vietā;
+3.10. izdevumi, ko darba devējs sedz sešus mēnešus pēc darbinieka norīkošanas darbā uz citu darba devēja norādītu vietu, kompensējot starpību starp darbinieka iepriekšējā dzīvokļa īri un komunālajiem pakalpojumiem un viņa dzīvokļa īres un komunālo pakalpojumu maksājumiem citā apdzīvotā vietā, uz kuru darba pienākumu dēļ darbinieks un viņa ģimene ir pārcēlušies pēc darba devēja norādījuma;
+3.11. darbinieka izdevumu kompensācija, kas radušies sakarā ar viņa iecelšanu citā amatā vai šādas iecelšanas izbeigšanu un ar to saistīto pārcelšanos uz citu dzīves vietu ārpus tās.
+3.12. jebkuras darba devēja izmaksas, kas nav algota darba ienākumi vai kas nav saistītas ar esošām darba attiecībām.
+Piemērs. Darba devēja izmaksātā autoratlīdzība savam darbiniekam.
+4. Darba ņēmējiem - uzņēmumu īpašniekiem, kas paši vada savu uzņēmumu un atbilst darba ņēmēja statusam, izņemot zemnieku saimniecību īpašniekiem, iemaksu objekts ir īpašnieka paša izvēlēta summa, kas nav mazāka par Ministru kabineta noteikto minimālo mēneša algu. Sociālo iemaksu objekts ir jānosaka neatkarīgi no tā, vai uzņēmums strādā ar peļņu vai zaudējumiem.
+5. Tā kā Likumā minētais objekts ir noteikts tikai sociālo iemaksu aprēķināšanai, tad no šīs summas algas nodoklis netiek ieturēts un to grāmatvedības uzskaitē neparāda kā izdevumus, kas saistīti ar saimniecisko darbību. Saimnieciskās darbības izdevumi ir tikai sociālās iemaksas.
+6. Paralēli Likumā noteiktajam sociālo iemaksu objektam, uzņēmējdarbību regulējošie likumi paredz izpildinstitūcijai, kuras funkcijas Likuma kontekstā izpilda uzņēmuma īpašnieks, arī iespēju noteikt atalgojumu. Ja uzņēmuma īpašnieks - darba ņēmējs - ir noteicis sev atalgojumu, kuru arī reāli saņem, tad uz šo atalgojumu ir attiecināmi visi tie noteikumi, kurus attiecina uz darba algu: tiek ieturēts algas nodoklis, atalgojums ir attiecināms uz saimnieciskās darbības izdevumiem.
+7. Likuma "Par uzņēmējdarbību" 34.panta trešā daļa paredz, ka uzņēmums var pārtraukt savu darbību uz noteiktu laiku. Par to uzņēmuma vadītājam ir jāpaziņo Valsts ieņēmumu dienestam, norādot uzņēmējdarbības pārtraukšanas iemeslus un termiņu, uz kādu darbība ir pārtraukta. Uzņēmuma īpašnieks - darba ņēmējs sociālās iemaksas par šo laika periodu neveic.
+8. Uzņēmuma, graudniecības, pārvadājuma līgumu slēdzējiem sociālo iemaksu objekts ir līgumā norādītā atlīdzība. Sociālās iemaksas kārto tajā mēnesī, kad aprēķina atlīdzību.
+Piemērs. Ja uzņēmuma līgums ir noslēgts uz trīs mēnešiem un ir paredzēts, ka atlīdzība tiks izmaksāta bez iepriekšējiem avansiem pēc darba nodošanas, tad sociālās iemaksas jākārto tikai par trešo mēnesi.
+9. Ja samaksa ir norādīta natūrā (graudniecības līgums), tad algas nodokļa objekts (arī iemaksu objekts) tiek noteikts saskaņā ar attiecīgā labuma, kas paredzēts kā atlīdzība, tirgus vērtību.
+10. Darba ņēmējiem nav minimālā sociālo iemaksu objekta apmēra, bet ir noteikts maksimālais sociālo iemaksu objekta lielums. Maksimālo sociālo iemaksu objekta apmēru nosaka Ministru kabinets katram gadam:
+- 1998.gadā Ls 12000;
+- 1999.gadā Ls 14000;
+- sākot ar 2000.gada 1.janvāri, Ls 15000.
+11. Darba ņēmēja ienākumiem sasniedzot sociālo iemaksu objekta maksimālo apmēru, darba devējs pārtrauc sociālo iemaksu veikšanu par konkrēto darba ņēmēju.
+12. Sākot ar 2000.gada 1.janvāri, kalendārā gadā pārmaksātās sociālās iemaksas tiek aprēķinātas un atmaksātas tikai pēc kalendārā gada beigām. Valsts sociālās apdrošināšanas aģentūra triju mēnešu laikā pēc kalendārā gada beigām aprēķina pārmaksātās sociālās iemaksas un atmaksā pārmaksāto sociālo iemaksu darba ņēmēju daļu. Ja pārmaksātās sociālās iemaksas ir mazākas par valstī noteikto minimālo darba algu, tad tās atmaksā tikai pēc tā kalendārā gada, kad atmaksājamās sociālās iemaksas sasniegs valstī noteikto minimālo darba algu. Pārmaksāto sociālo iemaksu darba devēju daļu Valsts ieņēmumu dienests vispirms novirza citu nodokļu parādu segšanai. Ja nav citu nodokļu parādu, tad pārmaksāto sociālo iemaksu darba devēju daļu ieskaita nākamo periodu sociālo iemaksu maksājumos vai pēc darba devēja pieprasījuma atmaksā.
+IV daļa. Apdrošināšanas prēmijas un iemaksas privātajos pensiju fondos
+1. Nosakot sociālo iemaksu objektu, ja darba devējs par savu darba ņēmēju veic apdrošināšanas prēmiju maksājumus par dzīvības, veselības vai nelaimes gadījumu apdrošināšanu vai veic iemaksas privātajos pensiju fondos, jāņem vērā šādi nosacījumi.
+2. Jānosaka, kāda veida apdrošināšanas līgums ir noslēgts:
+- vai tas ir dzīvības apdrošināšanas līgums ar līdzekļu uzkrāšanu ,
+- vai tas ir dzīvības, veselības un nelaimes gadījumu apdrošināšanas līgums bez līdzekļu uzkrāšanas .
+3. Jāņem vērā apdrošināšanas līgumā norādītais termiņš, uz kādu šis līgums ir noslēgts. Nepieciešams, lai:
+- dzīvības apdrošināšanas līgums ar līdzekļu uzkrāšanu būtu noslēgts vismaz uz pieciem gadiem ,
+- dzīvības, veselības un nelaimes gadījumu apdrošināšanas līgumam bez līdzekļu uzkrāšanas jābūt noslēgtam vismaz uz vienu gadu .
+4. Šajos līgumos ir jābūt atrunai par to, ka:
+1) iestājoties apdrošināšanas gadījumam, atlīdzība tiek izmaksāta apdrošinātajai personai vai labuma guvējam (dzīvības apdrošināšanā tas ir apdrošinātās personas radinieks vai kāda cita persona, kas saņem atlīdzību apdrošinātās personas nāves gadījumā);
+2) citas summas, kas tiek izmaksātas līguma darbības laikā, vai laužot līgumu, tiek izmaksātas darba devējam;
+3) nav paredzēta aizdevuma izsniegšana apdrošinātajām personām.
+5. Ja ir ievēroti visi iepriekš minētie nosacījumi, tad sociālās iemaksas nav jāveic no prēmiju maksājumu summas, kura nepārsniedz 10% no konkrētā darba ņēmēja, par kuru tiek izdarīti apdrošināšanas prēmiju maksājumi, bruto darba samaksas tajā kalendārajā gadā, kurā tiek izdarīti apdrošināšanas prēmiju maksājumi. Darba devējam nedrīkst būt nodokļu parādi ienākuma nodokļa pēctaksācijas perioda otrā mēneša pirmajā datumā.
+6. Darba devējam, aprēķinot sociālās iemaksas un nosakot 10% no darbinieku bruto darba samaksas attiecīgajā gadā, ir jāņem vērā turpmāk minētie principi.
+7. Ja par vienu darba ņēmēju darba devējs izdara gan iemaksas privātajos pensiju fondos, gan apdrošināšanas prēmiju maksājumus, tad šo abu veidu maksājumi kopā nedrīkst pārsniegt 10% no konkrētā darbinieka kārtējā kalendārā gada bruto darba samaksas.
+Piemērs. Darbinieka gada bruto darba samaksa ir Ls 3000. Darba devējs izdara iemaksas privātajā pensiju fondā Ls 180 gadā, kā arī dzīvības apdrošināšanas prēmiju maksājumus Ls 180 gadā. Tā kā 10% no darbinieka gada bruto darba samaksas ir Ls 300, bet iemaksas privātajā pensiju fondā, kā arī apdrošināšanas prēmiju maksājumi kopā ir Ls 360, tad Ls 60 būs sociālo iemaksu objekts.
+8. Dzīvības vai veselības apdrošināšanas līgumos var būt noteikti dažādi prēmiju maksāšanas termiņi jeb periodi, piemēram, katru mēnesi, katru ceturksni, katru pusgadu vai reizi gadā.
+8.1. Ja apdrošināšanas prēmiju maksājumi vai iemaksas privātajos pensiju fondos tiek izdarītas katru mēnesi, tad, mēnesim beidzoties, līdz dienai, kad jāveic sociālās iemaksas, darba devējam ir iespējams noteikt darbinieka pārskata mēneša bruto darba samaksu. Tādējādi nosaka to apdrošināšanas prēmiju maksājumu daļu, kura ir sociālo iemaksu objekts. Kalendārajam gadam beidzoties, tiek precizēta darbinieku bruto darba samaksa, kā arī sociālās iemaksas (sk.IV daļas 12.-15.punktu).
+Piemērs. Darba devējs ir noslēdzis veselības apdrošināšanas līgumu bez līdzekļu uzkrāšanas 2000.gadam. Apdrošināšanas prēmiju maksājumi Ls 35 apmērā tiek izdarīti katru mēnesi. Sociālās apdrošināšanas obligātās iemaksas ir jāveic līdz pārskata mēnesim sekojošā mēneša 14.datumam. Līdz ar to, ja apdrošināšanas prēmiju maksājumi ir izdarīti 2000.gada janvārī, tad līdz 14.februārim, kad jāizdara sociālās apdrošināšanas obligātās iemaksas, ir iespējams noteikt darbinieka bruto darba samaksu janvārī, kā arī - vai apdrošināšanas prēmiju maksājums Ls 35 apmērā nepārsniedz bruto darba samaksas 10% robežu (sk.1.pielikumu 1.piemēru).
+8.2. Sociālās apdrošināšanas iemaksas par apdrošināšanas prēmijām un iemaksām privātajos pensiju fondos tādos gadījumos, kad apdrošināšanas prēmiju maksājumi tiek veikti retāk nekā reizi mēnesī, jāizdara, beidzoties periodam (ceturksnim, pusgadam, gadam), par kuru veikti apdrošināšanas prēmiju maksājumi. Tad nosaka darbinieka bruto darba samaksu par attiecīgo periodu (ceturksni, pusgadu, gadu), kā arī apdrošināšanas prēmiju summu, kas pārsniedz 10% no bruto darba samaksas un par kuru jāizdara valsts sociālās apdrošināšanas obligātās iemaksas. Gada beigās tiek precizēta darbinieka gada bruto darba samaksa un sociālās apdrošināšanas iemaksas. Ja apdrošināšanas prēmiju maksājumi tiek izdarīti reizi gadā, tad obligātās iemaksas aprēķina gada beigās, kad ir iespējams noteikt gada bruto darba samaksu un nodokļu parādus pēctaksācijas perioda otrā mēneša pirmajā datumā.
+Piemērs. Darba devējs noslēdz veselības apdrošināšanas līgumu uz gadu. Tā darbības laiks ir no 2000.gada 1.janvāra līdz 2000.gada 31.decembrim. Apdrošināšanas prēmijas gadam par vienu darbinieku ir Ls 420.
+a) Apdrošināšanas prēmiju maksājumi jāizdara katra ceturkšņa pirmajā mēnesī līdz 15.datumam Ls 105 apmērā. Tas ir - līdz 2000.gada 15.janvārim, līdz 2000.gada 15.aprīlim, līdz 2000.gada 15.jūlijam un 2000.gada 15.oktobrim.
+2000.gada aprīlī tiek noteikta darbinieka pirmā ceturkšņa bruto darba samaksa, kā arī tiek salīdzināts, vai apdrošināšanas prēmiju maksājumi par pirmo ceturksni nepārsniedz 10% robežu no darbinieka bruto darba samaksas šajā ceturksnī. Ja 10% robeža ir pārsniegta, tad sociālās apdrošināšanas iemaksas par šo starpību tiek veiktas aprīlī, kopā ar sociālās apdrošināšanas iemaksām par darba samaksu martā. Tā rīkojas, beidzoties katram ceturksnim (sk.2. un 3.pielikuma 2. un 2a piemēru).
+b) Apdrošināšanas prēmiju maksājumi jāizdara katra pusgada pirmajā mēnesī līdz 15.datumam Ls 210 apmērā. Tas ir līdz 2000.gada 15.janvārim un līdz 2000.gada 15.jūlijam.
+2000.gada jūlijā tiek noteikta darbinieka pirmā pusgada bruto darba samaksa, kā arī tiek salīdzināts, vai apdrošināšanas prēmiju maksājumi par pirmo pusgadu nepārsniedz 10% robežu no darbinieka bruto darba samaksas šajā pusgadā. Ja 10% robeža ir pārsniegta, tad sociālās apdrošināšanas iemaksas par šo starpību tiek veiktas jūlijā, kopā ar sociālās apdrošināšanas iemaksām par darba samaksu jūnijā.
+Beidzoties otrajam pusgadam, 2001.gada janvārī ir iespējams noteikt 2000.gada bruto darba samaksu, tādēļ var precizēt sociālās apdrošināšanas iemaksas par visu 2000.gadu (sk.4.pielikuma 3.piemēru).
+c) Apdrošināšanas prēmiju maksājumi jāizdara gada sākumā - 2000.gada janvārī Ls 420 apmērā.
+2001.gada janvārī tiek noteikta darbinieka 2000.gada bruto darba samaksa, kā arī tiek salīdzināts, vai apdrošināšanas prēmiju maksājumi par 2000.gadu nepārsniedz 10% robežu no darbinieka bruto darba samaksas šajā gadā. Ja 10% robeža ir pārsniegta, tad sociālās apdrošināšanas iemaksas par šo starpību tiek veiktas februārī kopā ar sociālās apdrošināšanas iemaksām par darba samaksu 2001.gada janvārī, ņemot vērā, ka ienākuma nodokļa taksācijas periods sakrīt ar kalendāro gadu un februārī ir iespējams noteikt vai uzņēmumam nav nodokļu parādu (sk.IV daļas 12.-15.punktu).
+9. Ja apdrošināšanas līgums tiek slēgts uz gadu, bet tā darbības laiks nesakrīt ar kalendāro gadu, darbinieka gada bruto darba samaksu precizē, beidzoties tam kalendārajam gadam, kurā veikti apdrošināšanas prēmiju maksājumi, un 10% apmēru no darbinieka bruto darba samaksas kalendārajā gadā aprēķina tai apdrošināšanas prēmiju maksājumu daļai, kura ir veikta attiecīgajā kalendārajā gadā.
+Piemērs. Darba devējs noslēdz veselības apdrošināšanas līgumu uz gadu. Tā darbības laiks ir no 2000.gada 1.oktobra līdz 2001.gada 31.septembrim. Apdrošināšanas prēmijas gadam par vienu darbinieku ir Ls 420. Apdrošināšanas prēmiju maksājumi jāizdara katru mēnesi.
+2001.gada janvārī ir iespējams noteikt darbinieka 2000.gada bruto darba samaksu. Tad tiek precizētas sociālās iemaksas no 2000.gadā izdarītajām apdrošināšanas prēmijām. Savukārt par 2001.gadā izdarītajiem apdrošināšanas prēmiju maksājumiem sociālās iemaksas precizē 2002.gada februārī (sk.5.pielikuma 4.piemēru).
+10. Ja apdrošināšanas prēmiju maksājumi izdarīti vienu reizi gadā un apdrošināšanas līguma darbības laiks nesakrīt ar kalendāro gadu, tad sociālās iemaksas par apdrošināšanas prēmiju maksājumiem, kas pārsniedz 10% no darbinieka bruto darba samaksas tajā kalendārajā gadā, kad izdarīti apdrošināšanas prēmiju maksājumi, tiek veiktas nākamā kalendārā gada janvārī vai februārī.
+11. Ja apdrošināšanas prēmiju maksājumi tiek veikti retāk kā reizi mēnesī, darba devējs var arī piemērot alternatīvu iespēju, sociālās iemaksas veicot katru mēnesi.
+11.1. Darba devējam, ja viņš to uzskata par nepieciešamu, ir iespēja izdarītos prēmiju maksājumus, kuri saskaņā ar apdrošināšanas līgumu ir izdarāmi retāk nekā reizi mēnesī, sadalīt proporcionāli pa kalendārā gada turpmākajiem mēnešiem un sociālās iemaksas no apdrošināšanas prēmijām veikt katru mēnesi. Tomēr arī šajā gadījumā nākamā kalendārā gada sākumā ir jāprecizē iepriekšējā gada sociālo iemaksu objekts un jāpārbauda veiktās sociālās iemaksas.
+Piemērs. Darba devējs apdrošina sava darbinieka dzīvību uz pieciem gadiem - no 2000. līdz 2004.gadam - ar līdzekļu uzkrāšanu. Ievērojot līguma nosacījumus, apdrošināšanas prēmiju maksājumi tiek izdarīti katra gada martā. Tātad apdrošināšanas prēmiju maksājumi par 2000.gadu tiks izdarīti 2000.gada martā Ls 250 apmērā. Darba devējs apdrošināšanas prēmiju summu var sadalīt atlikušajiem gada mēnešiem, t.i., Ls 25 mēnesī. Šajā gadījumā darba devējam ir vienkāršāk veikt sociālās iemaksas vienu reizi gadā, tās nesadalot pa mēnešiem, jo ir pārāk maza summa. Tātad iemaksas tiks veiktas 2001. gada februārī, kad būs iespējams precīzi noteikt darbinieka 2000.gada bruto darba samaksu un nodokļu parādus uzņēmumam.
+Ja apdrošināšanas prēmiju apliekamā daļa un līdz ar to sociālo iemaksu objekts ir lielāks, sociālās iemaksas ir nozīmīgi veikt katru mēnesi, kas var ietekmēt sociālās apdrošināšanas pakalpojumu apmēru (sk.6.pielikuma 5.piemēru).
+12. No apdrošināšanas prēmiju maksājumiem un iemaksām privātajos pensiju fondos, kuri nepārsniedz 10% no gada bruto darba samaksas, netiek ieturētas sociālās iemaksas, prezumējot, ka darba devējam nebūs nodokļu parādu ienākuma nodokļa pēctaksācijas perioda otrā mēneša pirmajā datumā. Tomēr gada beigās, kad tiepārbauda, vai nav nodokļu parādu. Ja tādi ir, tad tiek izdarītas sociālās obligātās iemaksas, tās ieturot no visiem gada laikā izdarītajiem apdrošināšanas prēmiju maksājumiem un iemaksām privātajos pensiju fondos.
+13. Ja ienākuma nodokļa taksācijas periods sakrīt ar kalendāro gadu, tad likumā noteiktais datums, kad jānosaka nodokļu parādi, būs attiecīgajam gadam sekojošā gada 1.februāris. Šajā gadījumā reizē var konstatēt nodokļu parādu stāvokli uzņēmumam, kā arī konkrēti noteikt darbinieka iepriekšējā gada bruto darba samaksu. Februārī līdz ar sociālo iemaksu aprēķināšanu par janvāri, precizē (ja tas ir nepieciešams) iepriekšējā gada sociālās iemaksas no apdrošināšanas prēmiju maksājumiem un iemaksām privātajos pensiju fondos.
+14. Ja ienākuma nodokļa taksācijas periods nesakrīt ar kalendāro gadu, tad sociālās iemaksas no apdrošināšanas prēmijām precizē attiecīgajam gadam sekojošā gada janvārī. Turpretim nodokļu parādus nosaka tā pēctaksācijas perioda otrā mēneša pirmajā datumā, kurā to ir iespējams noteikt, izdarot sociālās iemaksas par iepriekšējā gada decembri nākamā gada janvārī.
+Piemērs. Uzņēmumam taksācijas periods ir no 1.aprīļa līdz nākošā gada 31.martam. Pēctaksācijas perioda otrā mēneša pirmais datums ir 1.maijs. Ja apdrošināšanas prēmiju maksājumi un iemaksas privātajos pensiju fondos ir veiktas 2000.gadā tad sociālo iemaksu objektu aprēķina vai precizē 2001.gada janvārī, nosakot darbinieka 2000.gada bruto darba samaksu. Savukārt tuvākais datums, kurā var noteikt nodokļu parādu stāvokli uzņēmumam, ir 2000.gada 1.maijs. Tātad, lai izpildītu Likumā minēto nosacījumu par nodokļu parādu neesamību, šajā piemērā minētajā gadījumā, veicot apdrošināšanas prēmiju maksājumus vai iemaksas privātajos pensiju fondos 2000.gadā, ņem vērā nodokļu parāda stāvokli uzņēmumam 2000.gada 1.maijā.
+15. Ja apdrošināšanas līgums tiek slēgts uz vairākiem gadiem, tad nodokļu parādu neesamība ir jānosaka katru gadu. Ja kādā gadā tiek konstatēts nodokļa parāds, tad apdrošināšanas prēmijas attiecīgajā periodā ir sociālo iemaksu objekts. Tiklīdz parāds tiek nomaksāts, tad turpmāk, ja tiek izpildīti arī pārējie nosacījumi, apdrošināšanas prēmiju maksājumi 10% apmērā no gada bruto darba samaksas vairs nav sociālo iemaksu objekts, bet sociālās iemaksas par iepriekšējo periodu, kad ir bijuši nodokļu parādi, netiek koriģētas.
+Piemērs. Darba devējs apdrošina savu darbinieku dzīvību, noslēdzot apdrošināšanas līgumu ar līdzekļu uzkrāšanu laika posmam no 2000. līdz 2005.gadam. Apdrošināšanas prēmiju maksājumi tiek izdarīti vienreiz gadā par attiecīgo gadu. Tādējādi uzņēmuma parādu neesamība tiks noteikta katru gadu.
+Izdarot apdrošināšanas prēmiju maksājumus par 2000.gadu tā paša gada janvārī, tiek noteikts, vai nav nodokļu parādu 2000.gada 1.februārī (tas nozīmē, ka nav parādu ne par vienu no iepriekšējiem gadiem). Ja parādu nav un ir izpildīti arī citi nepieciešamie nosacījumi, tad apdrošināšanas prēmiju maksājumi 10% apmērā no bruto darba samaksas nav sociālo iemaksu objekts.
+2001.gada 1.februārī uzņēmumam ir kāda nodokļa parāds, līdz ar to no apdrošināšanas prēmiju maksājumiem 2001.gadā tiks ieturētas sociālās iemaksas.
+2001.gadā ir segti visi nodokļu parādi un veikti arī visi kārtējie nodokļu maksājumi par šo gadu, tādējādi apdrošināšanas prēmiju maksājumi 2002.gadā vairs nebūs sociālo iemaksu objekts, ja tiks izpildīti arī citi nosacījumi. Tomēr sociālās iemaksas par 2001.gadā veiktajiem apdrošināšanas prēmiju maksājumiem netiks precizētas.
+16. Gadījumos, kad darbinieks, kura labā ir noslēgts apdrošināšanas līgums, pārtrauc darba attiecības, darba devējs divu mēnešu laikā precizē sociālās iemaksas no apdrošināšanas prēmijām attiecīgajā kalendārajā gadā un nosaka nodokļu parādus uzņēmumam uz tā pēctaksācijas perioda otrā mēneša pirmo datumu, uz kuru to ir iespējams noteikt.  
+V daļa. Likumā noteiktā atbildība par sociālo iemaksu objekta neuzrādīšanu
+1. Sākot ar 2000.gada 1.janvāri ir noteikta darba devēja un uzņēmuma īpašnieka, kas atbilst darba ņēmēja statusam, atbildība gadījumos, kad netiek uzrādīts sociālo iemaksu objekts.
+2. Ja darba devējs nodarbina personu, ar kuru nav noformētas līgumiskās attiecības un par kuru netiek izdarītas sociālās iemaksas, Valsts ieņēmumu dienesta amatpersonām ir tiesības piedzīt no darba devēja sociālās iemaksas no:
+- summas, kas tiek izmaksāta personai, ja šo summu ir iespējams noteikt un ja tā nav mazāka par valstī noteikto minimālo darba algu;
+- valstī noteiktās minimālās darba algas, ja faktiskās atlīdzības apmēru nav iespējams noteikt vai arī tas ir mazāks par valstī noteikto minimālo darba algu.
+3. Sociālās iemaksas vismaz no valstī noteiktās minimālās darba algas piedzen par visu periodu, kad persona ir bijusi nodarbināta, nenoformējot līgumiskās attiecības. Ja šo periodu nav iespējams noteikt, tad iemaksas tiek piedzītas par to mēnesi, kurā pārkāpums ir konstatēts. Ja darba devējs nodarbina personas, ar kurām nav noformētas līgumiskās attiecības, un šis pārkāpums tiek atklāts, ir izslēgta iespēja piedzīt sociālās iemaksas par nepilnu mēnesi, pamatojoties uz darba devēja apgalvojumiem, ka persona nav nodarbināta visu mēnesi.
+4. Sociālās iemaksas piedzen tās nepersonificējot gadījumos, kad darba devējs oficiāli ir nodarbinājis mazāk personu, nekā tas reāli būtu nepieciešams, lai noteiktajā laika periodā būtu veikts konkrēts darbs.
+Piemērs. Darba devējs ir noslēdzis darba līgumu ar trim personām par noliktavas celtniecību. Noliktava ir jāuzceļ divu mēnešu laikā, kas arī tiek paveikts. Taču, pēc ekspertu novērtējuma, tiek atzīts, ka tādam darba apjomam divu mēnešu laikā būtu jānodarbina vismaz septiņas personas. Tā kā darba devējs neuzrāda, kādas personas vēl ir bijušas nodarbinātas, tad Valsts ieņēmumu dienesta amatpersonas piedzen no darba devēja sociālās iemaksas no valstī noteiktās minimālas darba algas par četrām personām, šīs iemaksas nepersonificējot.
+5. Līdzīgas sankcijas ir paredzētas gadījumos, kad uzņēmumu īpašnieki, kas atbilst darba ņēmēja statusam, nav noteikuši sev iemaksu objektu. Par sociālo iemaksu objektu tiek uzskatīta gan īpašnieka paša izvēlētā summa, kas nav mazāka par valstī noteikto minimālo darba algu, gan noteiktā darba alga, kas atsevišķos gadījumos var būt mazāka par valstī noteikto minimālo darba algu. Tādējādi, ja:
+1) nav noteikts sociālo iemaksu objekts;
+2) sociālo iemaksu objekts ir darba alga, bet tas ir mazāks par minimālo algu, un nav attaisnojošu dokumentu,
+tad VID amatpersonām ir tiesības piedzīt sociālās iemaksas no valstī noteiktās minimālas darba algas.
+6. Visos gadījumos, kad tiek piedzītas sociālās iemaksas, amatpersonām ir tiesības piedzīt arī soda naudu obligāto iemaksu apmērā.
+7. Sociālās iemaksas ir jāveic arī tad, ja darba devējs nav izmaksājis darbiniekiem algu. Sociālās iemaksas ir izdarāmas tādā pat termiņā, kā gadījumā, kad alga būtu izmaksāta. Līdz ar šo normu ir nostiprināts princips, ka sociālās iemaksas jāveic nevis no darbinieku saņemtajiem, bet no aprēķinātajiem ienākumiem.
+
+
+
+
+
+
+ 
+Par "Metodisko norādījumu par darba ņēmēju valsts sociālās apdrošināšanas iemaksām" apstiprināšanu

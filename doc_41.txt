@@ -1,0 +1,237 @@
+Statuss: zaudējis spēku
+Saeima ir pieņēmusi un Valsts
+prezidents izsludina šādu likumu:
+Izdarīt likumā "Par uzņēmumu gada pārskatiem" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 44./45.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 8.nr.; 1996, 24.nr.; 1998, 6., 21.nr.) šādus grozījumus:
+1. Ievaddaļā "Likumā lietotie termini":
+izteikt termina "vadība" skaidrojumu šādā redakcijā:
+"Vadība ir uzņēmuma pārvaldes institūcija, kas ir tiesīga pieņemt lēmumus attiecībā uz uzņēmuma darbību. Individuālajos uzņēmumos par vadību uzskatāms īpašnieks vai viņa pilnvarota persona.";
+izteikt termina "koncerns" skaidrojumu šādā redakcijā:
+"Koncerns ir uzņēmumu kopums, kura sastāvā ir koncerna mātes uzņēmums un tā meitas uzņēmumi. Ja vienai vai vairākām fiziskajām personām pieder atsevišķi individuālie uzņēmumi, tie neveido koncernu.";
+izteikt terminu "radniecīgi uzņēmumi" un "naudas plūsmas pārskats" skaidrojumu šādā redakcijā:
+"Radniecīgi uzņēmumi ir tādi uzņēmumi, kas attiecībā pret koncerna sastāvā esošu uzņēmumu, par kuru sastādīts gada pārskats, ir koncerna meitas uzņēmumi vai koncerna mātes uzņēmums, vai citi šā koncerna meitas uzņēmumi, vai šā koncerna meitas uzņēmumu meitas uzņēmumi.
+Naudas plūsmas pārskats ir gada pārskata neatņemama sastāvdaļa, kas atspoguļo naudas un tās ekvivalentu plūsmu pārskata perioda laikā, klasificējot to kā naudas plūsmu no pamatdarbības, ieguldījumu darbības un finansu darbības.";
+izslēgt terminus "mātes uzņēmums", "meitas uzņēmums", "saistītais uzņēmums" un to skaidrojumus;
+papildināt likumā lietoto terminu skaidrojumu ar šādiem jauniem terminiem un to skaidrojumiem:
+"Asociētais uzņēmums ir tāds uzņēmums, kas atrodas cita uzņēmuma būtiskā ietekmē, kura tiek nodrošināta ar ne mazāk kā 20, bet ne vairāk par 50 procentiem no akcionāru vai dalībnieku balsstiesībām šajā uzņēmumā.
+Koncerna mātes uzņēmums ir tāds uzņēmums, kas tieši vai netieši (ar viena vai vairāku šā koncerna meitas uzņēmumu līdzdalību) ir ieguvis ietekmi uz citu uzņēmumu - koncerna meitas uzņēmumu atbilstoši likuma "Par konsolidētajiem gada pārskatiem" 4. un 5.panta nosacījumiem.
+Koncerna meitas uzņēmums ir tāds uzņēmums, kas atrodas koncerna mātes uzņēmuma ietekmē atbilstoši likuma "Par konsolidētajiem gada pārskatiem" 4. un 5.panta nosacījumiem.
+Pašu kapitāla izmaiņu pārskats ir finansu pārskatu kopuma sastāvdaļa, kurā sniedz datus par uzņēmuma pašu kapitāla un tā sastāvdaļu apjoma izmaiņām noteiktu saimniecisko darījumu ietekmē pārskata periodā, kā arī par šā perioda neto ienākumu vai zaudējumu kopsummu, tajā ietverot arī tieši pašu kapitālā ieskaitītās vai no tā norakstītās summas."
+2. Aizstāt (attiecīgā locījumā) visā likuma tekstā vārdu "ziņojums" ar vārdiem "vadības ziņojums" (attiecīgā locījumā).
+3. Aizstāt (attiecīgā locījumā) visā likuma tekstā vārdus "peļņa un zaudējumi" ar vārdiem "peļņa vai zaudējumi" (attiecīgā locījumā).
+4. Izteikt 1.panta trešo daļu šādā redakcijā:
+"(3) Šis likums neattiecas uz kredītiestādēm, apdrošināšanas sabiedrībām un privātajiem pensiju fondiem."
+5. 4.pantā:
+izteikt pirmo daļu šādā redakcijā:
+"(1) Gada pārskats kā vienots kopums sastāv no bilances, peļņas vai zaudējumu aprēķina, pašu kapitāla izmaiņu pārskata, naudas plūsmas pārskata un pielikuma, kā arī uzņēmuma vadības ziņojuma par uzņēmuma attīstību pārskata gadā.";
+aizstāt trešajā daļā vārdus "un peļņu vai zaudējumiem" ar vārdiem "peļņu vai zaudējumiem un naudas plūsmu";
+izteikt ceturto daļu šādā redakcijā:
+"(4) Ja atbilstoši šim likumam sastādītā gada pārskatā ietvertā informācija nedod pietiekami patiesu un skaidru priekšstatu par uzņēmumu, ir jāsniedz papildu informācija gada pārskata pielikumā.";
+papildināt pantu ar piekto daļu šādā redakcijā:
+"(5) Lai par uzņēmumu sniegtu patiesu un skaidru priekšstatu šā panta trešās daļas izpratnē, Ministru kabineta noteiktajos izņēmuma gadījumos var atkāpties no atsevišķām šajā likumā izvirzītajām prasībām. Katra šāda atkāpšanās jāpaskaidro gada pārskata pielikumā, norādot tās būtību, iemeslu un ietekmi uz uzņēmuma līdzekļiem, saistībām, finansiālo stāvokli, peļņu vai zaudējumiem, kā arī jāizskaidro izraudzītā metode."
+6. 5.pantā:
+izteikt otro daļu šādā redakcijā:
+"(2) Peļņas vai zaudējumu aprēķina shēmu nedrīkst mainīt, ja pēc vienas un tās pašas shēmas aprēķins nav sastādīts vismaz divus gadus pēc kārtas.";
+papildināt pantu ar ceturto un piekto daļu šādā redakcijā:
+"(4) Izņēmuma gadījumos var nepiemērot šā panta otrās daļas prasības, ja peļņas vai zaudējumu aprēķina shēmas maiņas pamatojums ir koncerna meitas uzņēmuma iegāde un koncerna mātes uzņēmuma prasība radniecīgajos uzņēmumos izmantot vienu un to pašu shēmu.
+(5) Uz peļņas vai zaudējumu aprēķina shēmas maiņu norāda pielikumā un paskaidro šīs maiņas iemeslu."
+7. 7.pantā:
+aizstāt pirmās daļas pirmajā teikumā vārdus "Gada pārskatā katram bilances, kā arī peļņas un zaudējumu aprēķina postenim" ar vārdiem "Gada pārskatā katram bilances, peļņas vai zaudējumu aprēķina, naudas plūsmas pārskata un pašu kapitāla izmaiņu pārskata postenim,";
+izteikt otro daļu šādā redakcijā:
+"(2) Bilances, peļņas vai zaudējuma aprēķina, naudas plūsmas pārskata un pašu kapitāla izmaiņu pārskata posteņi, kuros nav skaitļu (summas), jāuzrāda tikai tad, ja iepriekšējā gada pārskatā ir bijis attiecīgs postenis ar summu."
+8. Aizstāt 9.panta otrajā daļā vārdus "Sabiedrības pašas" ar vārdiem "Uzņēmuma paša".
+9. 10.pantā:
+papildināt II posteņu grupu "Pamatlīdzekļi" ar jaunu 2.posteni (attiecīgi mainot pārējo posteņu numerāciju) un ar 6.posteni šādā redakcijā:
+"2. Ilgtermiņa ieguldījumi nomātajos pamatlīdzekļos."
+"6. Avansa maksājumi par pamatlīdzekļiem.";
+izslēgt Pamatlīdzekļu līdzšinējā 2.postenī vārdu "Tehnoloģiskās";
+izteikt Pašu kapitāla 2.posteni šādā redakcijā:
+"2. Akciju (daļu) emisijas uzcenojums.";
+aizstāt vārdu "saistītie" (attiecīgā locījumā) ar vārdu "asociētie" (attiecīgā locījumā);
+izteikt daļu "Kreditori (īstermiņa un ilgtermiņa)" šādā redakcijā:
+"Ilgtermiņa kreditori:
+1. Aizņēmumi pret obligācijām.
+2. Akcijās pārvēršamie aizņēmumi.
+3. Aizņēmumi no kredītiestādēm.
+4. Citi aizņēmumi.
+5. No pircējiem saņemtie avansi.
+6. Parādi piegādātājiem un darbuzņēmējiem.
+7. Maksājamie vekseļi.
+8. Parādi radniecīgajiem uzņēmumiem.
+9. Parādi asociētajiem uzņēmumiem.
+10. Nodokļi un sociālās nodrošināšanas maksājumi.
+11. Pārējie kreditori.
+12. Nākamo periodu ieņēmumi.
+13. Pārskata gada dividendes.
+14. Neizmaksātās iepriekšējo gadu dividendes.
+Īstermiņa kreditori:
+1. Aizņēmumi pret obligācijām.
+2. Akcijās pārvēršamie aizņēmumi.
+3. Aizņēmumi no kredītiestādēm.
+4. Citi aizņēmumi.
+5. No pircējiem saņemtie avansi.
+6. Parādi piegādātājiem un darbuzņēmējiem.
+7. Maksājamie vekseļi.
+8. Parādi radniecīgajiem uzņēmumiem.
+9. Parādi asociētajiem uzņēmumiem.
+10. Nodokļi un sociālās nodrošināšanas maksājumi.
+11. Pārējie kreditori.
+12. Nākamo periodu ieņēmumi.
+13. Pārskata gada dividendes.
+14. Neizmaksātās iepriekšējo gadu dividendes."
+10. 11.pantā:
+aizstāt 6.punkta "a" apakšpunktā vārdu "algas" ar vārdiem "atlīdzība par darbu";
+aizstāt 9.punktā vārdus "meitas un saistīto" ar vārdiem "koncerna meitas un asociēto";
+izslēgt 17.punktā vārdu "Ārkārtas".
+11. 12.pantā:
+aizstāt 7.punktā vārdus "meitas un saistīto" ar vārdiem "koncerna meitas un asociēto";
+papildināt pantu ar jaunu 7.posteni šādā redakcijā:
+"7. Pārējās uzņēmuma saimnieciskās darbības izmaksas.";
+izslēgt 15.punktā vārdu "Ārkārtas";
+uzskatīt līdzšinējo 7.-18. posteni attiecīgi par 8.-19. posteni.
+12. 13.pantā:
+aizstāt pirmās daļas 3.punkta "a" apakšpunktā vārdu "algas" ar vārdiem "atlīdzība par darbu";
+aizstāt otrajā daļā vārdus "meitas un saistīto" ar vārdiem "koncerna meitas un asociēto".
+13. 14.pantā:
+papildināt pirmo daļu ar jaunu 4.posteni šādā redakcijā:
+"4. Pārējās uzņēmuma saimnieciskās darbības izmaksas.";
+uzskatīt līdzšinējo 4.-10. posteni attiecīgi par 5.-11. posteni;
+aizstāt otrajā daļā vārdus "meitas un saistīto" ar vārdiem "koncerna meitas un asociēto".
+14. Aizstāt 16.panta 9.punktā vārdus "bilances sastādīšanas dienai" ar vārdiem "bilances datumam".
+15. 17.pantā:
+izslēgt pirmajā daļā vārdu "sastādīšanas";
+izteikt otro un trešo daļu šādā redakcijā:
+"(2) Katram debitoru parādu postenim bilancē atsevišķi norāda summas, kas saņemamas gada laikā un kas saņemamas vēlāk nekā gada laikā pēc bilances datuma.
+(3) Katram kreditoru parādu postenim bilancē atsevišķi norāda summas, kas maksājamas gada laikā un kas maksājamas vēlāk nekā gada laikā pēc bilances datuma.";
+papildināt pantu ar ceturto un piekto daļu šādā redakcijā:
+"(4) Parādi, kas maksājami gada laikā pēc bilances datuma, uzskatāmi par īstermiņa kreditoru parādiem. Parādi, kas maksājami vēlāk nekā gada laikā pēc bilances datuma, uzskatāmi par ilgtermiņa kreditoru parādiem. Atsevišķi norāda arī īstermiņa un ilgtermiņa kreditoru parādu kopsummas.
+(5) Šā panta pirmajā daļā norādīto izmaksu un ieņēmumu saturu paskaidro pielikumā."
+16. Aizstāt 18.pantā vārdu "samaksu" ar vārdu "atlīdzību".
+17. Izteikt 19.pantu šādā redakcijā:
+"19.pants
+(1) Uzkrājumi ir paredzēti noteikta veida zaudējumu, saistību vai izmaksu segšanai, kuri attiecas uz pārskata gadu vai iepriekšējiem gadiem un kuri bilances datumā ir paredzami vai droši zināmi, bet kuru apjoms vai segšanas datums nav skaidri zināms.
+(2) Uzkrājumi nedrīkst pārsniegt nepieciešamās summas. Pielikumā sniedz detalizētu informāciju par izveidoto uzkrājumu posteņiem, norādot ikviena uzkrājuma veidošanas pamatojumu, apjomu pārskata gada sākumā un beigās, uzkrājumu summas palielinājumu vai samazinājumu, paskaidrojot iemeslu un izmantotās vērtēšanas metodes.
+(3) Postenī "Citi uzkrājumi" ietvertās summas pielikumā parāda sadalījumā pa uzkrājumu veidiem un sniedz šā panta otrajā daļā norādīto informāciju."
+18. Izteikt 20.pantu šādā redakcijā:
+"20.pants
+Postenī "Pārskata gada nesadalītā peļņa" parāda summu, kas atbilst peļņas vai zaudējumu aprēķina postenī "Pārskata gada peļņa vai zaudējumi" norādītajai summai. Dalībnieku pilnsapulces noteikto peļņas sadali vai zaudējumu segšanu parāda nākamā gada pārskatā, attiecīgi samazinot postenī "Iepriekšējo gadu nesadalītā peļņa" pārskata gada sākumā norādīto summu."
+19. Izteikt 22.pantu šādā redakcijā:
+"22.pants
+(1) Šā likuma 12. un 14.panta postenī "Pārdotās produkcijas ražošanas izmaksas" parāda neto apgrozījuma gūšanai izlietotās produkcijas, preču vai pakalpojumu izmaksas ražošanas vai iegādes pašizmaksā.
+(2) Šā likuma 12. un 14.panta posteņos "Pārdošanas izmaksas" un "Administrācijas izmaksas" iekļauj ar tām saistītās personāla izmaksas, materiālu izmaksas, pamatlīdzekļu nolietojuma un nemateriālo ieguldījumu vērtības norakstījumu summas un citas ar tām saistītās izmaksas.
+(3) Posteņos "Pārējie saimnieciskās darbības ieņēmumi" un "Pārējās saimnieciskās darbības izmaksas" iekļauj attiecīgi uzņēmuma saimnieciskās darbības ieņēmumus vai izmaksas, kas nav parādītas citos peļņas vai zaudējumu aprēķina posteņos un kas ir radušās saimnieciskās darbības rezultātā vai ir ar to saistītas, vai izriet tieši no tās."
+20. 23.pantā:
+izteikt pirmo daļu šādā redakcijā:
+"(1) Ieņēmumi un izdevumi, kas rodas tādu notikumu vai darījumu rezultātā, kuri nepārprotami atšķiras no uzņēmumam parastajām darbībām un kuru bieža vai periodiska atkārtošana nav gaidāma, ir jāparāda posteņos "Ārkārtas ieņēmumi" un "Ārkārtas izmaksas".";
+papildināt pantu ar jaunu otro daļu šādā redakcijā:
+"(2) Parastās darbības ir jebkuras darbības, ko uzņēmums veic savas saimnieciskās darbības ietvaros, kā arī tādas darbības, kas sekmē uzņēmuma saimniecisko darbību vai ir radušās saistībā ar šādām darbībām, vai tieši izriet no tām.";
+uzskatīt līdzšinējo otro daļu par trešo daļu.
+21. Aizstāt 24.panta pirmajā un ceturtajā daļā vārdus "līdz bilances sastādīšanas dienai" ar vārdiem "bilances datumā".
+22. 25.pantā:
+aizstāt pirmās daļas 3.punkta "a" un "b" apakšpunktā vārdus "bilances sastādīšanas diena" (attiecīgā locījumā) ar vārdiem "bilances datums" (attiecīgā locījumā);
+aizstāt pirmās daļas 4.punktā vārdus "jāņem vērā" ar vārdiem "peļņas vai zaudējumu aprēķinā jāietver";
+izslēgt pirmās daļas 7.punkta trešajā teikumā pēc vārda "bilancē" vārdus "kā arī";
+papildināt pirmās daļas 7.punkta trešo teikumu pēc vārda "aprēķinā" ar vārdiem "naudas plūsmas pārskatā un pašu kapitāla izmaiņu pārskatā".
+23. 26.pantā:
+papildināt otro daļu ar tekstu šādā redakcijā:
+"Pirkšanas cena ir naudā vai tās ekvivalentos samaksātā summa vai aktīva iegādei nodotās atlīdzības patiesā vērtība laikā, kad aktīvs tika iegādāts vai radīts. Patiesā vērtība ir summa, par kuru aktīvu var apmainīt starp labi informētām, savstarpēji ieinteresētām un finansiāli nesaistītām pusēm.";
+izteikt ceturto daļu šādā redakcijā:
+"(4) Pamatlīdzekļu izveidošanai saņemto aizņēmumu procentus, kuri nomaksāti līdz objekta nodošanai ekspluatācijā, iekļauj jaunizveidotā objekta pašizmaksā. Procentu iekļaušanu objekta pašizmaksā parāda pielikumā."
+24. Aizstāt 28.panta otrajā daļā vārdus "bilances sastādīšanas dienā" ar vārdiem "bilances datumā".
+25. 29.pantā:
+izslēgt pirmās daļas pēdējo teikumu;
+izslēgt otrās daļas pēdējo teikumu;
+izteikt trešo un ceturto daļu šādā redakcijā:
+"(3) Ilgtermiņa ieguldījumu pārvērtēšanas rezervi samazina, ja pārvērtētais objekts ir likvidēts vai to vairs neizmanto, vai vērtības palielināšanai vairs nav pamata.
+(4) Ilgtermiņa ieguldījumu pārvērtēšanas rezervi samazina tikai šā panta trešajā daļā noteiktajos gadījumos. Ilgtermiņa ieguldījumu pārvērtēšanas rezervi nedrīkst sadalīt dividendēs, izlietot zaudējumu segšanai, ieskaitīt kapitālos vai citās rezervēs, izlietot sociālajai sfērai, labdarībai, ne arī citiem mērķiem.";
+izslēgt piekto daļu;
+izteikt sesto daļu šādā redakcijā:
+"(6) Piemērojot šā panta pirmo daļu, pielikumā par katru pārvērtēto bilances aktīva posteni norāda pārvērtēšanas pamatojumu, kā arī novērtējuma starpību, salīdzinot šā panta pirmajā daļā paredzētajā kārtībā noteikto vērtību un atbilstoši šā likuma 26., 27. un 28.pantam noteikto vērtību."
+26. Aizstāt 31.panta otrajā daļā vārdus "pārskata sastādīšanas dienā" ar vārdiem "bilances datumā".
+27. Aizstāt 32.pantā vārdus "bilances sastādīšanas dienā" ar vārdiem "bilances datumā".
+28. Aizstāt 33.panta pirmajā daļā vārdus "bilances sastādīšanas dienā" ar vārdiem "bilances datumā".
+29. 37.pantā:
+aizstāt pirmās daļas pirmajā teikumā vārdus "bilances sastādīšanas dienā" ar vārdiem "bilances datumā";
+aizstāt pirmās daļas trešajā teikumā vārdus "drīkst izveidot" ar vārdu "veido";
+izslēgt otro daļu.
+30. Aizstāt 38.pantā vārdus "Akciju emisijas uzcenojums" ar vārdiem "Akciju (daļu) emisijas uzcenojums".
+31. Izteikt 39.pantu šādā redakcijā:
+"39.pants
+(1) Papildus šā likuma 26., 28. un 29.pantā paredzētajiem novērtēšanas noteikumiem koncerna mātes uzņēmums, ja uz to neattiecas likuma "Par konsolidētajiem gada pārskatiem" 8. un 9.pantā noteiktie atbrīvojumi, savā gada pārskatā līdzdalību koncerna meitas uzņēmuma pamatkapitālā un līdzdalību asociētā uzņēmuma pamatkapitālā novērtē šā panta otrajā, trešajā, ceturtajā, piektajā, sestajā un septītajā daļā paredzētajā kārtībā.
+(2) Līdzdalību koncerna meitas uzņēmuma pamatkapitālā, kā arī līdzdalību asociētā uzņēmuma pamatkapitālā sākotnēji parāda iegādes izmaksās attiecīgā bilances postenī "Līdzdalība radniecīgo uzņēmumu kapitālā" vai "Līdzdalība asociēto uzņēmumu kapitālā".
+(3) Katra pārskata gada beigās postenī "Līdzdalība radniecīgo uzņēmumu kapitālā" vai postenī "Līdzdalība asociēto uzņēmumu kapitālā" norādīto summu palielina vai samazina atbilstoši līdzdalības daļas vērtības izmaiņām koncerna meitas uzņēmuma vai asociētā uzņēmuma pašu kapitālā pārskata gadā. Šim nolūkam izmanto attiecīgi koncerna meitas uzņēmuma vai asociētā uzņēmuma īpašnieku pilnsapulcē apstiprinātā gada pārskata informāciju. Kapitāla līdzdalības daļas vērtības pieaugumu vai samazinājumu koncerna meitas uzņēmuma vai asociētā uzņēmuma pašu kapitālā pārskata gadā parāda peļņas vai zaudējumu aprēķinā vienā no šādiem posteņiem:
+1) postenī "Ieņēmumi no līdzdalības koncerna meitas un asociēto uzņēmumu kapitālos", ja tā ir koncerna meitas vai asociētā uzņēmuma peļņas daļa,
+2) postenī "Ilgtermiņa finansu ieguldījumu un vērtspapīru vērtības samazināšanās", ja tā ir koncerna meitas vai asociētā uzņēmuma zaudējumu daļa.
+(4) Postenī "Līdzdalība radniecīgo uzņēmumu kapitālā" vai postenī "Līdzdalība asociēto uzņēmumu kapitālā" norādīto summu katra pārskata gada beigās samazina arī par aprēķināto dividenžu summu, kas attiecas uz šo līdzdalību. Koncerna meitas uzņēmuma aprēķināto dividenžu summas apmērā samazina bilances posteņa "Līdzdalība radniecīgo uzņēmumu kapitālā" atlikumu un palielina bilances posteņa "Radniecīgo uzņēmumu parādi" atlikumu. Asociētā uzņēmuma aprēķināto dividenžu apmērā samazina bilances posteņa "Līdzdalība asociēto uzņēmumu kapitālā" atlikumu un palielina bilances posteņa "Asociēto uzņēmumu parādi" atlikumu.
+(5) Ja peļņas vai zaudējumu aprēķina postenī "Ieņēmumi no līdzdalības koncerna meitas un asociēto uzņēmumu kapitālos" norādītais kapitāla līdzdalības daļas vērtības pieaugums pārskata gadā pārsniedz aprēķināto dividenžu summu, starpību ieskaita rezervē, kuru nedrīkst sadalīt dividendēs, izlietot zaudējumu segšanai, ieskaitīt kapitālos vai citās rezervēs, izlietot sociālajai sfērai, labdarībai, ne arī citiem mērķiem.
+(6) Nosakot kapitāla līdzdalības daļas vērtības izmaiņas koncerna meitas uzņēmuma vai asociētā uzņēmuma pašu kapitālā pārskata gadā, izslēdz savstarpējo darījumu rezultātā radušos ieņēmumus un izmaksas, attiecīgi piemērojot likuma "Par konsolidētajiem gada pārskatiem" 21.panta pirmās daļas noteikumus.
+(7) Īpašos gadījumos drīkst atkāpties no šā panta sestās daļas prasībām, ja savstarpējo darījumu rezultātā radušos ieņēmumu un izmaksu summas ir tik mazas, ka arī bez to izslēgšanas ir iespējams sniegt patiesu un skaidru priekšstatu par koncerna meitas uzņēmuma vai asociētā uzņēmuma kapitāla līdzdalības daļas vērtības izmaiņām pārskata gadā.
+(8) Šo pantu nepiemēro, ja informācija par koncerna meitas uzņēmuma vai asociētā uzņēmuma pašu kapitālu, peļņu vai zaudējumiem ir nenozīmīga šā likuma 4.panta trešajā daļā noteikto prasību īstenošanai."
+32. Izteikt 40.pantu šādā redakcijā:
+"40.pants
+Gada pārskata pielikumā ar skaitļiem, tekstā un tabulās sniedz šā likuma 5., 6., 7., 9., 16., 17., 19., 23., 25., 26., 28., 29., 31., 36. un 37.pantā pieprasītos skaidrojumus, salīdzinājumus, detalizācijas un pamatojumus, kā arī šā likuma 41., 42., 43., 44., 45., 46., 47., 48., 49., 50., 51., 52. un 54.pantā noteikto informāciju."
+33. 42.pantā:
+izteikt pirmo daļu šādā redakcijā:
+"(1) Pielikumā norāda koncerna meitas uzņēmumu un asociēto uzņēmumu nosaukumu un juridisko adresi, uzņēmumu līdzdalības daļu procentos šo uzņēmumu pamatkapitālā, kā arī šo uzņēmumu pašu kapitāla un peļņas vai zaudējumu apjomu atbilstoši katra šā uzņēmuma pēdējam apstiprinātajam gada pārskatam. Šo informāciju var nesniegt, ja tā ir nenozīmīga šā likuma 4.panta trešajā daļā noteikto prasību īstenošanai.";
+izteikt trešo daļu šādā redakcijā:
+"(3) Šā panta pirmajā daļā minēto uzņēmumu pašu kapitāla un peļņas vai zaudējumu apjomu var neparādīt, ja attiecīgais uzņēmums nepublicē savu gada pārskatu un ja līdzdalības daļa tajā ir mazāka par 50 procentiem."
+34. 45.pantā:
+izslēgt pirmajā daļā vārdu "sastādīšanas";
+izslēgt trešās daļas pirmajā teikumā vārdus "jo šādas ziņas ir svarīgas finansiālā stāvokļa noteikšanai";
+izslēgt piektās daļas pēdējo teikumu.
+35. Izteikt 46.pantu šādā redakcijā:
+"46.pants
+Ja uzņēmuma nekustamajam īpašumam ir noteikta kadastrālā vērtība, tā jānorāda pielikumā."
+36. Izteikt 48.panta pirmo daļu šādā redakcijā:
+"(1) Peļņas vai zaudējumu aprēķinā norādīto neto apgrozījumu pielikumā parāda sadalījumā pa pamatdarbības veidiem un ģeogrāfiskajiem tirgiem, ja uzņēmuma pamatdarbības (produkcijas pārdošanas un pakalpojumu sniegšanas) veidi un ģeogrāfiskie tirgi būtiski atšķiras."
+37. Izteikt 49.pantu šādā redakcijā:
+"49.pants
+(1) Pielikumā sniedz informāciju par pārskata gadā samaksātām nodokļu un nodevu summām sadalījumā pa nodokļu un nodevu veidiem un saņemtajiem nodokļu atvieglojumiem un piešķirtajām atlaidēm - par katru nodokli atsevišķi, norādot dokumentus, kas apstiprina tiesības uz šādiem atvieglojumiem un atlaidēm.
+(2) Detalizēti pa nodokļu un nodevu veidiem parāda debitoru vai kreditoru sastāvā ietvertās nodokļu un nodevu saistību summas, aprēķinātās nokavējuma naudas, soda naudas un citas valsts budžetam vai pašvaldību budžetiem maksājamās vai pārmaksātās summas, tās attiecīgi saskaņojot ar nodokļu administrāciju.
+(3) Pārskata gadā aprēķināto uzņēmumu ienākuma nodokļa summu, kas attiecas uz ārkārtas ieņēmumu un izmaksu starpību, parāda atsevišķi."
+38. Izslēgt 53.pantu.
+39. 54.pantā:
+izslēgt pirmās daļas pirmajā teikumā vārdu "sastādīšanas";
+aizstāt pirmās daļas otrajā teikumā vārdus "bilances sastādīšanas dienas" ar vārdiem "bilances datuma";
+izslēgt trešo daļu;
+aizstāt piektajā daļā vārdus "bilances sastādīšanas dienā" ar vārdiem "bilances datumā".
+40. Izteikt 7.nodaļas nosaukumu šādā redakcijā:
+"7.nodaļa
+Vadības ziņojums".
+41. 55.pantā:
+papildināt otrās daļas 3.punktu pēc vārda "pasākumiem" ar vārdiem "ja tādi ir";
+papildināt otro daļu ar 4.punktu šādā redakcijā:
+"4) uzņēmuma filiālēm un pārstāvniecībām ārvalstīs.";
+izteikt trešo daļu šādā redakcijā:
+"(3) Vadības ziņojumā sniedzami priekšlikumi par uzņēmuma peļņas izlietošanu vai tā zaudējumu segšanu.";
+izteikt sesto daļu šādā redakcijā:
+"(6) Uzņēmumi, kuru akcijas tiek kotētas biržā, vadības ziņojumā ietver arī pārskata gada peļņas vai zaudējumu salīdzinājumu ar iepriekšējo gadu, izskaidrojot svārstību rašanās iemeslus, un pielikumā sniedz ziņas par valdes, padomes, vadības locekļu līdzdalību un vadības funkciju pildīšanu citos Uzņēmumu reģistrā reģistrētajos uzņēmumos, izņemot līdzdalību vai vadības funkciju pildīšanu tādos meitas uzņēmumos, kuros mātes uzņēmumam pieder visas kapitāla daļas vai akcijas."
+42. Izslēgt 8.nodaļu.
+43. Izslēgt 62.panta otro daļu.
+44. 63.pantā:
+izslēgt otrās daļas otrajā teikumā vārdu "īpaši";
+izslēgt trešās daļas trešo teikumu.
+45. Izteikt 64.panta 1.punktu šādā redakcijā:
+"1) vai uzņēmuma gada pārskats ir sagatavots saskaņā ar šā likuma prasībām, kā arī vai vadības ziņojums atbilst gada pārskatam;".
+46. Izslēgt 65. pantu.
+47. 66.pantā:
+izteikt pirmo un otro daļu šādā redakcijā:
+"(1) Uzņēmums ne vēlāk kā mēnesi pēc gada pārskata apstiprināšanas un ne vēlāk kā četrus mēnešus pēc pārskata gada beigām, bet uzņēmums, kura darbības apjoms pārsniedz šā likuma 24.panta otrajā daļā minētos kritērijus, ne vēlāk kā septiņus mēnešus pēc pārskata gada beigām iesniedz (nosūta pa pastu vai ar kurjeru) Valsts ieņēmumu dienesta nodaļai pēc uzņēmuma atrašanās vietas un Uzņēmumu reģistram pārbaudīta gada pārskata, kā arī revidenta atzinuma (ja tāds ir) norakstu kopā ar paskaidrojumu par to, kad gada pārskats apstiprināts. Minētos dokumentus var iesniegt elektroniskā veidā, pievienojot rakstveida apliecinājumu par to atbilstību dokumentu oriģināliem. Uzņēmums ir atbildīgs par to, lai pa pastu vai ar kurjeru nosūtītie vai elektroniskā veidā iesniegtie dokumenti tiktu saņemti.
+(2) Uzņēmumi, uz kuriem attiecas šā likuma 54.panta noteikumi, var vadības ziņojumu neiesniegt. Šādā gadījumā iesniedzams apstiprināts akcionāru vai dalībnieku pilnsapulces protokola noraksts, kurā parādīts pieņemtais lēmums par peļņas sadali vai zaudējumu segšanu.";
+izteikt ceturto un piekto daļu šādā redakcijā:
+"(4) Ne vēlāk kā divus mēnešus pēc gada pārskata un vadības ziņojuma apstiprināšanas un ne vēlāk kā astoņus mēnešus pēc pārskata gada beigām uzņēmumi, kuru darbības apjoms pārsniedz šā likuma 24.panta otrajā daļā minētos kritērijus, par saviem līdzekļiem iesniedz publicēšanai laikrakstā "Latvijas Vēstnesis" gada pārskata un revidenta atzinuma norakstu.
+(5) Uzņēmumu reģistrā saņemtie gada pārskatu un revidentu atzinumu noraksti, kā arī šā panta otrajā daļā minēto pilnsapulces protokolu noraksti glabājami uzņēmuma reģistrācijas lietā, un tiem ir jābūt publiski pieejamiem, lai ikviens, samaksājis valsts nodevu, ar tiem var iepazīties."
+48. 67.pantā:
+aizstāt pirmās daļas pirmajā teikumā vārdus "un ziņojums" ar vārdiem "un revidentu atzinumi";
+izslēgt pirmās daļas pirmajā teikumā vārdus "vai tiek publicēts koncerna gada pārskats";
+izslēgt pirmās daļas otro teikumu;
+izteikt pirmās daļas trešo teikumu šādā redakcijā:
+"Ja ieteikumi vai lēmumi par peļņas sadali nav ietverti gada pārskata vadības ziņojumā vai pielikumā, šie ieteikumi vai lēmumi arī jāpublicē.";
+izteikt otro daļu šādā redakcijā:
+"(2) Ja gada pārskats netiek pilnībā publicēts, skaidri jānorāda, ka tas publicēts saīsinātā formā un pilnībā pieejams Uzņēmumu reģistrā. Zvērināta revidenta atzinumu šajā gadījumā nepublicē, bet publikācijā paziņo, vai zvērinātam revidentam ir bijuši iebildumi vai piezīmes vai viņš ir atteicies sniegt savu atzinumu."
+49. Papildināt likumu ar pārejas noteikumiem šādā redakcijā:
+"1. Ar šo likumu izdarītie grozījumi piemērojami gada pārskatiem, sākot ar 1999. pārskata gadu, izņemot grozījumus likuma 10.pantā attiecībā uz īstermiņa kreditoriem un ilgtermiņa kreditoriem un grozījumus likuma 17.panta trešajā daļā, kas piemērojami, sākot ar 2000. pārskata gadu.
+2. Konsolidētie gada pārskati, sākot ar 1999. pārskata gadu, sagatavojami atbilstoši likumam "Par konsolidētajiem gada pārskatiem."
+Likums Saeimā pieņemts 1999.gada 16.decembrī.
+Valsts prezidente V.Vīķe-Freiberga
+Rīgā 2000.gada 5.janvārī
+Grozījumi likumā "Par uzņēmumu gada pārskatiem"

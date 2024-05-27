@@ -1,0 +1,29 @@
+Statuss: zaudējis spēku
+Ministru kabineta noteikumi Nr. 31
+Rīgā 2000.gada 18.janvārī (prot. Nr. 4, 13.§)
+Izdoti saskaņā ar Valsts statistikas likuma 5.panta otrās daļas 4.punktu
+ 
+Izdarīt Ministru kabineta 1998.gada 16.jūnija noteikumos Nr.222 "Noteikumi par vienoto ekonomiskās informācijas klasifikācijas sistēmu" (Latvijas Vēstnesis, 1998, 182./183.nr.) šādus grozījumus:
+1. Aizstāt norādē, uz kāda likuma pamata noteikumi izdoti, vārdus "5.pantu" ar vārdiem "5.panta otrās daļas 4.punktu".
+2. Aizstāt 1.4.apakšpunktā vārdu "standartizāciju" ar vārdu "klasificēšanu".
+3. Izteikt 2.punktu šādā redakcijā:
+"2. Šie noteikumi nosaka kārtību, kādā izstrādājama (adaptējama), ieviešama, uzturama un lietojama vienotā ekonomiskās informācijas klasifikācijas sistēma."
+4. Izteikt 5.punktu šādā redakcijā:
+"5. Par atsevišķu klasifikāciju un klasifikatoru (kodu sistēmu) izstrādāšanu (adaptāciju) un uzturēšanu ir atbildīgas attiecīgās ministrijas un citas valsts institūcijas (pielikums)."
+5. Aizstāt 9.8.apakšpunktā vārdus "pirmo eksemplāru" ar vārdiem "vienu eksemplāru".
+6. Papildināt noteikumus ar 9.10.apakšpunktu šādā redakcijā:
+"9.10. ministrijas un citas valsts institūcijas, kuras ir atbildīgas par vienotajā ekonomiskās informācijas klasifikācijas sistēmā iekļauto klasifikāciju un klasifikatoru (kodu sistēmu) izstrādāšanu (adaptāciju) un uzturēšanu, līdz 2002.gada 31.decembrim nodrošina valsts nozīmes informācijas tīklam pieslēgtajiem lietotājiem pieejamību klasifikācijām un klasifikatoriem (kodu sistēmām) tiešsaistes režīmā, izņemot, ja klasifikācija vai klasifikators (kodu sistēma) ir ar ierobežotu pieejamību."
+7. Izteikt 11. un 12.punktu šādā redakcijā:
+"11. Izdevumi, kas saistīti ar vienotajā ekonomiskās informācijas klasifikācijas sistēmā iekļauto klasifikāciju un klasifikatoru (kodu sistēmu) izstrādāšanu (adaptāciju) un uzturēšanu, tiek segti no valsts budžeta.
+12. Klasifikāciju un klasifikatoru (kodu sistēmu) lietotājiem, kuri tiek finansēti no valsts budžeta, viens klasifikācijas vai klasifikatora (kodu sistēmas) eksemplārs tiek izsniegts bez maksas. Citas juridiskās un fiziskās personas klasifikācijas un klasifikatorus (kodu sistēmas) iegādājas par izdevēja noteikto samaksu."
+8. Izteikt pielikumu šādā redakcijā:
+"Pielikums
+Ministru kabineta
+1998.gada 16.jūnija
+noteikumiem Nr.222
+1>1111 Katra gada atbilstošā versija.
+2 Katra gada atbilstošā versija.
+Piezīme. Ja Latvijā tiek lietots starptautiskās klasifikācijas vai klasifikatora (kodu sistēmas) precīzs tulkojums, tabulas 2.ailē dots Latvijā pieņemtais nosaukums, bet tabulas 5.ailē - starptautiskā etalona nosaukums oriģinālvalodā. Ja starptautiskā klasifikācija vai klasifikators (kodu sistēma) lietošanai Latvijā adaptēts, ņemot vērā vietējos apstākļus, tabulas 2.ailē nosauktas arī starptautiskās klasifikācijas vai klasifikatori (kodu sistēmas), kuru principi jāievēro, sagatavojot un iesniedzot starptautiski salīdzināmu informāciju." 
+Ministru prezidents A.Šķēle
+Satiksmes ministrs A.Gorbunovs
+Grozījumi Ministru kabineta 1998.gada 16.jūnija noteikumos Nr.222 "Noteikumi par vienoto ekonomiskās informācijas klasifikācijas sistēmu"

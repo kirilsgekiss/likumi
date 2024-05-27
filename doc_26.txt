@@ -1,0 +1,69 @@
+Statuss: zaudējis spēku
+Satiksmes ministrijas noteikumi Nr.45
+Rīgā 1999.gada 28.decembrī
+Izdoti saskaņā ar Autopārvadājumu likuma 38.panta 2.daļu
+1. Šie noteikumi nosaka biļešu un citu braukšanas dokumentu obligātos rekvizītus pilsētas, rajona un tālsatiksmes maršrutu autobusu satiksmē. Biļešu obligātos rekvizītus starptautiskajā satiksmē nosaka pārvadātājs, saskaņojot ar Satiksmes ministriju.
+2. Pārvadātājs autobusa biļetē vai citā braukšanas dokumentā var iekļaut papildu rekvizītus, ja tie uzlabo pārvadāšanas procesu.
+3. Pilsētas maršruta autobusa biļetē (tai skaitā bagāžas pārvadāšanai) ir šādi obligātie rekvizīti:
+3.1. pilsētas nosaukums;
+3.2. biļetes numurs un sērija;
+3.3. biļetes cena;
+3.4. pārvadātāja nosaukums;
+3.5. pārvadājumu veids (maršruta autobuss, maršruta taksometrs, taksobuss).
+4. Rajona un tālsatiksmes maršruta autobusa biļetē ir šādi obligātie rekvizīti:
+4.1. autoostu kasēs pārdotajā biļetē:
+4.1.1. pārvadātāja nosaukums;
+4.1.2. biļetes numurs;
+4.1.3. brauciena sākuma un gala punkts;
+4.1.4. biļetes cena;
+4.1.5. norāde par braukšanas maksas atvieglojumu apmēru (atlaidi %);
+4.1.6. autobusa atiešanas laiks, datums;
+4.1.7. tālsatiksmes maršrutā - vietas numurs un iekāpšanas pietura, ja tā tiek norādīta saskaņā ar pasažieru un bagāžas pārvadāšanas noteikumiem; rajona maršrutā - iekāpšanas numurs;
+4.1.8. maršruta nosaukums;
+4.1.9. pārdošanas datums un laiks;
+4.1.10. kases aparāta numurs (cits identifikācijas numurs);
+4.2. rajona un tālsatiksmes maršrutu autobusos pārdotajā biļetē:
+4.2.1. pārvadātāja nosaukums;
+4.2.2. biļetes numurs;
+4.2.3. brauciena sākuma un gala punkts;
+4.2.4. biļetes cena
+4.2.5. norāde par braukšanas maksas atvieglojumu apmēru (atlaidi %);
+4.2.6. maršruta nosaukums;
+4.2.7. pārdošanas datums un laiks;
+4.2.8. elektroniskās ierīces (kases aparāta) numurs (cits identifikācijas numurs);
+4.3. rajona un tālsatiksmes maršrutu autobusos pārdotajās biļetēs, kuras tiek tirgotas bez elektroniskajām ierīcēm, tiek iekļauti 4.2.1., 4.2.2. un 4.2.4.apakšpunktos noteiktie rekvizīti. Ja biļete tiek tirgota par pazeminātu tarifu, pārvadātājam jānodrošina to uzskaiti.
+5. Biļetei bagāžas pārvadāšanai rajona vai tālsatiksmes maršrutos ir šādi obligātie rekvizīti:
+5.1. pārvadātāja nosaukums;
+5.2. biļetes numurs;
+5.3. pārvadājumu sākuma un gala punkts, ja bagāža tiek pārvadāta bez pasažiera;
+5.4. pārdošanas datums un laiks;
+5.5. biļetes cena;
+5.6. maršruta numurs;
+5.7. bagāžas biļetēs, kuras tiek tirgotas bez elektroniskajām ierīcēm, tiek iekļauti 5.1., 5.2., 5.3. un 5.5.punktos noteiktie rekvizīti.
+6. Abonementa braukšanas dokumentiem (braukšanas kartēm, mēnešbiļetēm), kuri var būt gan personalizēti, gan uz uzrādītāju ir šādi obligātie rekvizīti:
+6.1. pilsētas maršrutos:
+6.1.1. maršrutu numurs, (vai pārvadājuma veids);
+6.1.2. biļetes cena;
+6.1.3. derīguma termiņš, darbības laiks (nedēļas diena u.c.);
+6.1.4. pārvadājuma veids (ja abonementa braukšanas dokuments tiek izsniegts vairākiem pārvadājumu veidiem, 6.1.1.punktā noteiktos rekvizītus abonementa braukšanas dokumentā var neiekļaut);
+6.1.5. pasažiera kategorijas nosaukums, ja Ministru kabineta noteiktā kārtībā ir noteikti braukšanas maksas atvieglojumi,
+6.2. rajonu maršrutos, saskaņojot ar rajona padomi, var paredzēt abonementa braukšanas dokumentus, kuros tiek ietverti 6.1.punktā norādītie rekvizīti;
+6.3. tālsatiksmes maršrutu abonementa biļetē tiek ietverti 6.1. punktā norādītie rekvizīti, saskaņojot ar Satiksmes ministriju.
+6.4. ja 6.1., 6.2. un 6.3.punktos minētajos pārvadājumu veidos abonementa biļete ir personalizēta, ir nepieciešama pasažiera fotogrāfija.
+7. Normatīvos aktos noteiktajiem citiem braukšanas dokumentiem (invalīda apliecība, skolnieka apliecība u.c.) ir šādi obligātie rekvizīti:
+7.1. pasažiera kategorija;
+7.2. vārds, uzvārds;
+7.3. personas kods;
+7.4. dokumenta izdošanas pamats;
+7.5. institūcijas dokumenta izdevējas nosaukums;
+7.6. derīguma termiņš;
+7.7. fotogrāfija.
+Pārejas jautājumi
+8. Ja līdz 2000.gada 1.janvārim iegādāto elektronisko ierīču tehniskās iespējas nepieļauj uzrādīt 4.1.1., 4.1.3., 4.1.8., 4.1.9., 4.2.3., 4.2.7., 5.1., 5.4.punktos noteiktos rekvizītus, biļetē tos var neuzrādīt.
+9. 8.punktā minētās elektroniskās ierīces (kases aparāti) ir derīgas līdz 2005.gada 1.janvārim. Pēc 2000.gada 1.janvāra iegādātajām elektroniskām ierīcēm (kases aparātiem) jāatbilst 4.1., 4.2. un 5.1 līdz 5.6. punktu prasībām.
+10. 4.3. un 5.7.punktos noteiktās biļetes ir derīgas līdz 2005.gada 1.janvārim.
+11. Noteikumi stājas spēkā ar 2000.gada 1.janvāri.
+Satiksmes ministrs A.Gorbunovs
+Pasažieru pārvadājumu departamenta direktors A.Ļublins
+ 
+Noteikumi par autobusu biļešu un citu braukšanas dokumentu obligātajiem rekvizītiem

@@ -1,0 +1,325 @@
+Statuss: zaudējis spēku
+Valsts zemes dienesta rīkojums Nr.4
+1999.gada 5.janvāris
+Lai izpildītu Ministru Kabineta 1996.gada 30.aprīļa noteikumus nr.158 "Nekustamā īpašuma valsts kadastra noteikumi" un lai nodrošinātu vienotu datorizētās zemes informācijas sistēmas datu uzturēšanu, kā arī vienotu un pilnīgu visu Latvijas Republikas teritoriju aptverošu informāciju Nekustamā īpašuma valsts kadastra reģistrā, nosaku:
+1. Apstiprināt:
+1.1. nekustamā īpašuma valsts kadastra reģistra kārtošanas nolikumu;
+1.2. programmu lietošanas instrukciju (versija 3.3.0.);
+1.3. datu struktūru (versija 3.3.0.);
+1.4. klasifikatorus (versija 3.3.0.);
+1.5. datu bāzes administrēšanu (versija 3.3.0.);
+2. Valsts zemes dienesta Latvijas zemes kadastra centram:
+2.1. līdz 1999.gada 1.martam izstrādāt un apstiprināt:
+2.1.1. Kadastra reģistra uzziņas formu;
+2.1.2. Kadastra reģistra pilnās izdrukas un izmainītā vai papildinātā ieraksta izdrukas formu;
+2.2. līdz 1999.gada 1.aprīlim:
+2.3.1. sagatavot priekšlikumus par Kadastra reģistra centrālās datu bāzes koncepciju;
+2.2.2. izstrādāt Kadastra reģistra datu pavairošanas apstrādāšanas publicēšanas un nodošanas trešajām personām kārtību;
+2.2.3. izpētīt un aprakstīt Kadastra reģistra datu plūsmas rajonu, pilsētu un pagastu līmeņos, lai precizētu, kuras Kadastra reģistra uzturēšanas funkcijas nodokļu maksātāju sarakstu sastādīšanai (arī par pašvaldību nomas zemēm) tiek deleģētas VZD nodaļu kadastra inspektoriem;
+2.3. līdz 1999.gada 1.jūlijam izstrādāt programmatūru, kas dotu iespēju no Kadastra reģistra:
+2.3.1. VZD nodaļām un Latvijas zemes kadastra centram datus par nekustamo īpašumu uzziņas formā izsniegt valsts un pašvaldības iestādēm, fiziskajām un juridiskajām personām pēc to pieprasījuma;
+2.3.2. izdrukāt Kadastra reģistra pilno izdruku un izmainītā vai papildinātā ieraksta izdruku;
+3. Uzskatīt par spēku zaudējušu ar VZD 1993.gada 21.jūlija pavēli nr.21 apstiprināto "Nolikumu par kārtību, kādā piešķirami kadastra apzīmējumi un kārtojama kadastra karte".
+4. Kontroli par rīkojuma 1.punkta izpildi veikt Tehniskās uzraudzības daļai.
+5. Kontroli par rīkojuma izpildi kopumā paturu sev.
+Pielikumā:
+1. Nekustamā īpašuma valsts kadastra reģistra kārtošanas nolikums
+2. Programmu lietošanas instrukcija (versija 3.3.0.)
+3. Datu struktūra (versija 3.3.0.)
+4. Klasifikatori (versija 3.3.0.)
+5. Datu bāzes administrēšana (versija 3.3.0.)
+Ģenerāldirektors G.Grūbe
+APSTIPRINĀTS
+ar VZD 1999.gada 5.janvāra
+VZD rīkojumu nr. 4
+ 
+Saturā
+1. Nekustamā īpašuma valsts kadastra reģistra kārtošanas vispārīgie jautājumi
+2. Kadastra reģistra uzturēšanas mehānisms
+3. Kadastra numuru veidošanas pamatprincipi
+4. Reģistrēšanas procedūra:
+4.1. nekustamo īpašumu reģistrācija
+4.2. izmaiņu izdarīšana
+5. Nekustamā īpašuma un to veidojošo fizisko objektu reģistrēšana:
+5.1. zemes īpašuma (zemes ar uz tās esošajām ēkām un būvēm) reģistrēšana
+5.2. ēku (būvju) īpašuma reģistrēšana
+5.3. dzīvokļa īpašuma reģistrēšana
+6. Kadastra reģistra grafiskā daļa
+7. Kadastrālo vērtību ievadīšana Kadastra reģistrā
+8. Kadastra reģistra uzraudzība un reģistrācijas kvalitātes kontrole
+9. Datu apmaiņa starp Kadastra reģistru un citiem reģistriem
+10. Kadastra reģistra datu lietotāji, to pienākumi un tiesības
+11. Kadastra reģistra datu glabāšana un izmantošana
+12. Kadastra reģistra datu glabāšanas drošība
+13. Kadastra reģistra uzziņa par nekustamo īpašumu
+Nolikumā minētie dokumenti
+ 
+1. Nekustamā īpašuma valsts kadastra reģistra kārtošanas vispārīgie jautājumi
+1. Nekustamo īpašumu valsts kadastra reģistra (turpmāk tekstā - Kadastra reģistra ) kārtošanu nosaka Latvijas Republikas Ministru Kabineta "Nekustamā īpašuma valsts kadastra noteikumi".
+2. Kadastra reģistrs šā nolikuma izpratnē ir no teksta daļas un grafiskās daļas sastāvošs reģistrs, kurā tiek uzturēta informācija par visiem reģistrēšanai pakļautajiem nekustamajiem īpašumiem, nekustamā īpašuma tiesiskajiem valdījumiem un valsts zemi (turpmāk - nekustamais īpašums ), un šos nekustamos īpašumus veidojošo fizisko objektu savstarpējo izvietojumu teritorijā un to ģeometriju.
+3. Par nekustamā īpašuma īpašnieku kadastra izpratnē uzskatāmas fiziskās un juridiskās (tai skaitā valsts un pašvaldības) personas:
+3.1. kuru īpašuma tiesības uz nekustamo īpašumu ir nostiprinātas zemesgrāmatā ;
+3.2. kurām piederošais nekustamais īpašums (ēkas un būves) līdz zemesgrāmatu likuma atjaunošanai ir reģistrēts pašvaldībā vai Valsts zemes dienestā .
+4. Par nekustamā īpašuma tiesisko valdītāju kadastra izpratnē uzskatāmas fiziskās un juridiskās (tai skaitā valsts un pašvaldības) personas, kuru īpašuma tiesības uz nekustamo īpašumu nav nostiprinātas zemesgrāmatā, bet kurām:
+4.1. atbilstoši likumā noteiktās institūcijas lēmumam zemes reformas gaitā:
+4.1.1. uz zemes īpašumiem atjaunotas īpašuma tiesības;
+4.1.2. zeme nodota (piešķirta) īpašumā par samaksu;
+4.1.3. zeme nodota (piešķirta) īpašumā uz likuma "Par valsts un pašvaldības zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatā" pamata;
+4.2. īpašuma tiesības uz ēkām vai būvēm atjaunotas vai iegūtas likumā noteiktajā kārtībā un kuras tās ir pārņēmušas, t.i. kurām pieder:
+4.2.1. noformētie ēku (būvju) īpašumi;
+4.2.2. ēkas un būves uz svešas zemes, kuras vēl nav noformētas kā ēku (būvju) īpašumi;
+4.3. pieder:
+4.3.1. paātrinātajā privatizācijā iegūtie dzīvokļu īpašumi;
+4.3.2. pilnajā privatizācijā iegūtie dzīvokļu īpašumi;
+4.4. nekustamā īpašuma valdījums iegūts uz mantojuma tiesību vai cita pamata.
+4.5. nekustamā īpašuma valdījums iegūts citos likumā noteiktos veidos.
+5. Par zemes lietotāju kadastra izpratnē uzskatāmas fiziskās un juridiskās (tai skaitā valsts un pašvaldības) personas, kurām zeme ir piešķirta:
+5.1. pastāvīgā lietošanā;
+5.2. pastāvīgā lietošanā ar lietošanas tiesību pāreju citām personām;
+5.3. nomas lietošanā.
+6. Par nekustamā īpašuma nodokļa maksātāju kadastra izpratnē uzskatāmas fiziskās un juridiskās personas, kuru īpašumā vai tiesiskā valdījumā ir nekustamais īpašums.
+Līdz zemes reformas pabeigšanai nekustamā īpašuma nodokli par zemi, kas neatrodas kādas personas īpašumā vai tiesiskajā valdījumā, maksā zemes lietotājs, bet ja tāda nav, - nomnieks.
+Līdz 1999.gada 31.decembrim nekustamā īpašuma nodokli par valsts vai pašvaldības īpašumā esošu zemi maksā zemes lietotājs, bet ja tāda nav, - nomnieks.
+Līdz 2000.gada 31.decembrim ar nekustamā īpašuma nodokli netiek apliktas visas ēkas un būves, bet līdz 2003.gada 31.decembrim - individuālās dzīvojamās mājas un dzīvokļu īpašums daudzdzīvokļu mājā [15, 26].
+7. Kā patstāvīgs nekustamais īpašums Latvijas Republikā tiek uzskaitīts:
+7.1. zemes īpašums (zeme ar uz tās esošajām ēkām un būvēm);
+7.2. ēku (būvju) īpašums (bez īpašuma tiesībām uz zemi);
+7.3. dzīvokļa īpašums (dzīvoklis, mākslinieku darbnīca, neapdzīvojamā telpa).
+8. Kadastra reģistrā ir reģistrējami visi fizisko un juridisko personu (tai skaitā valsts un pašvaldību) personu nekustamie īpašumi, kuri:
+8.1. iegūti īpašuma tiesību atjaunošanas gadījumos;
+8.2. iegūti īpašumā par samaksu privatizācijas gaitā;
+8.3. iegūti darījumu rezultātā saskaņā ar spēkā esošajiem likumiem;
+8.4. iegūti īpašumā citos likumā noteiktos veidos;
+8.5. zeme:
+8.5.1. kura iegūta īpašumā uz likuma "Par valsts un pašvaldības zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatā" pamata [6];
+8.5.2. kura zemes reformas laikā piešķirta pastāvīgā lietošanā;
+8.5.3. par kuru pieņemti zemes komisiju atzinumi par īpašuma tiesību atjaunošanu;
+8.5.4 brīvā, nepieprasītā valsts zeme;
+8.5.5. zemes reformas gaitā pieprasītā, bet ar lēmumiem nenoformētā zeme;
+8.6. ēku (būvju) īpašumi;
+8.7. dzīvokļu īpašumi, kuri:
+8.7.1. iegūti īpašumā līdz dzīvojamās mājas privatizācijai (paātrinātajā privatizācijā);
+8.7.2. iegūti pilnajā privatizācijā.
+9. Nekustamie īpašumi sastāv no sekojošiem atsevišķiem fiziskajiem objektiem:
+9.1. zemes īpašums - no zemes kadastra vienībām (ar uz tās esošām zemes īpašniekam piederošām būvēm);
+9.2. ēku (būvju) īpašums - no atsevišķām būvēm;
+9.3. dzīvokļa īpašums - no atsevišķām telpu grupām.
+10. Nekustamo īpašumu un tos veidojošo fizisko objektu viennozīmīgai apzīmēšanai Kadastra reģistrā tiek lietota kadastra apzīmējumu sistēma, kuru veido:
+10.1. kadastra numuri;
+10.2. kadastra apzīmējumi.
+ 
+11. Katram nekustamajam īpašumam tiek piešķirts kadastra numurs. Latvijas Republikas teritorijā tas ir unikāls, viennozīmīgs numurs (kods), kurš tiek lietots, izdarot visu veidu norādes uz nekustamo īpašumu.
+12. Katram nekustamo īpašumu veidojošajam fiziskajam objektam tiek piešķirts kadastra apzīmējums. Latvijas Republikas teritorijā tas ir unikāls, viennozīmīgs apzīmējums (kods), kurš tiek lietots, izdarot visu veidu norādes uz nekustamo īpašumu veidojošo fizisko objektu.
+Līdz pilnīgai nekustamo īpašumu kadastra apzīmējumu sistēmas ieviešanai zemes īpašumu veidojošajām zemes kadastra vienībām izņēmuma kārtā tiek piešķirts kadastra numurs.
+13. Kadastra numuru un kadastra apzīmējumu piešķiršanas kārtību nosaka LR Valsts zemes dienests.
+14. Datu ievades procedūru Kadastra reģistrā nosaka VZD nodaļas vadītājs.
+15. Kadastra reģistrs paredzēts ziņu par noteiktā administratīvajā teritorijā esošajiem nekustamajiem īpašumiem uzkrāšanai un uzturēšanai aktuālā stāvoklī. Kadastra reģistrs nodrošina sekojošas funkcijas:
+15.1. datu ievadi no pašvaldību un zemes komisiju lēmumiem, nekustamo īpašumu reģistrācijas dokumentiem, nekustamo īpašumu uzmērīšanas (ierādīšanas) un vērtēšanas lietām, un citiem ziņu avotiem;
+15.2. datu glabāšanu savstarpēji saistītu tabulu veidā, nodrošinot tabulu savstarpējo atbilstību, datu nedublēšanos un vēsturisko ziņu saglabāšanu;
+15.3. informācijas regulāru atjaunošanu un uzturēšanu aktuālā stāvoklī ;
+15.4. datu atlasi un izdošanu dažādos veidos, tai skaitā uz tehniskajiem datu nesējiem;
+15.5. Kadastra reģistra iekšējo un ārējo lietotāju uzskaiti ;
+15.6. sasaisti ar citiem reģistriem un informācijas sistēmām;
+15.7. valsts institūciju un pašvaldību nodrošināšanu ar datiem , kuri nepieciešami zemes pārvaldes, nekustamā īpašuma nodokļa aprēķināšanai, statistisko pārskatu izdošanai, un citas funkcijas.
+16. Būtiskas izmaiņas Kadastra reģistra normatīvajos dokumentos un programmatūrā tiek izdarītas atbilstoši izmaiņām LR likumdošanas un normatīvajos aktos, kuri reglamentē Kadastra reģistra darbību.
+2. Kadastra reģistra uzturēšanas mehānisms
+17. Kadastra reģistra kārtošanu un uzturēšanu Latvijas Republikā nodrošina triju līmeņu sistēma:
+17.1. valsts līmenī - LR Valsts zemes dienesta Latvijas zemes kadastra centrs (turpmāk - Kadastra centrs );
+17.2. rajona līmenī - VZD nodaļas;
+17.3. pilsētas un pagasta līmenī - VZD nodaļu kadastra inspektori.
+Latvijas Republikā
+VZD Latvijas zemes
+kadastra centrs Citi reģistri
+(Kadastra reģistra
+centrālā datu bāze)
+Rajonā *) Pilsētā un pagastā
+Citu Kadastra Kadastra reģistra Kadastra
+re-
+ģistru
+vietē-
+jās
+noda-
+ļas
+pārskata cijas nodokļu pārskata
+karte bloks maksātāju karte
+3. - datu bāze 3. Kadastra
+pārskata
+plāns
+*) tai skaitā Jūrmalas un Rīgas pilsētā.
+18. Kadastra reģistru (teksta daļu un grafisko daļu) kārto un uztur VZD nodaļas, daļu Kadastra reģistra uzturēšanas funkciju deleģējot VZD nodaļu kadastra inspektoriem. Par Kadastra reģistra datu pareizību atbild VZD nodaļa.
+19. Rajona līmenī tiek uzturēts Kadastra reģistra teksta daļas galvenais informācijas bloks un no Kadastra reģistra grafiskās daļas - kadastra karte un kadastra pārskata karte.
+20. Pilsētas un pagasta līmenī tiek uzturēta Kadastra reģistra teksta daļas Kadastra reģistra nodokļu maksātāju datu bāze un no Kadastra reģistra grafiskās daļas - kadastra pārskata karte (atkarībā no tehniskajām iespējām) un kadastra pārskata plāns.
+21. Kadastra centrs:
+21.1. metodiski vada Kadastra reģistra kārtošanu;
+21.2. kārto un uztur Kadastra reģistra centrālo datu bāzi.
+3. Kadastra numuru veidošanas pamatprincipi
+22. Katram patstāvīgam nekustamajam īpašumam tiek piešķirts tikai viens kadastra numurs.
+23. Kadastra numurs sastāv no vienpadsmit cipariem, tā veidošanā izmantots hierarhijas princips, un tas sastāv no:
+23.1. kadastrālās teritorijas četrciparu koda;
+23.2. kadastra grupas trīsciparu koda;
+23.3. nekustamā īpašuma kārtas numura kadastra grupā (četrciparu kods) vai kadastrālajā teritorijā (deviņciparu kods).
+24. Lai saglabātu nemainīgu pastāvošo kadastra numuru piešķiršanas kārtību administratīvi teritoriālā iedalījuma izmaiņu gadījumos, ir izveidotas uz administratīvi teritoriālo iedalījumu balstītas kadastrālās teritorijas [2].
+Kadastrālā teritorija ir kadastra reģistra grafiskajā daļā iezīmēta kompakta teritorija, kura atbilst LR administratīvi teritoriālajam iedalījumam pēc stāvokļa uz 1996.gada 1.maiju [18].
+25. Kārtību, kādā kadastra numuri tiek piešķirti dažādiem nekustamajiem īpašumiem kā patstāvīgiem īpašuma tiesību objektiem (zemes īpašumiem, ēku (būvju) īpašumiem un dzīvokļa īpašumiem), nosaka atsevišķi VZD normatīvie dokumenti.
+26. Anulētie kadastra numuri turpmāk vairs netiek izmantoti.
+27. Ja īpašums atrodas vairākās administratīvi teritoriālā iedalījuma vienībās, katrai īpašuma daļai katrā atsevišķajā administratīvi teritoriālā iedalījuma vienībā tiek piešķirts atsevišķs kadastra numurs.
+4. Reģistrēšanas procedūra
+4.1. nekustamo īpašumu pirmējā reģistrācija
+28. Nekustamo īpašumu reģistrācija Kadastra reģistrā notiek tikai uz dokumentu pamata.
+29. Nekustamo īpašumu reģistrācija Kadastra reģistrā notiek atbilstoši:
+29.1. programmu lietošanas instrukcijai (versija 3.3.0.) [28];
+29.2. datu struktūrai (versija 3.3.0.) [29];
+29.3. VZD Latvijas zemes kadastra centra 1997.gada 1.oktobra rīkojumam nr. 243/9.1-08.1 "Par kadastra reģistrā lietojamo klasifikatoru papildināšanu"[17];
+29.4. klasifikatoriem (versija 3.3.0.) [30];
+29.5. kadastra reģistra grafiskās daļas specifikācijai [5, 11];
+29.6. citiem normatīvajiem dokumentiem attiecībā uz nekustamo īpašumu reģistrēšanu.
+30. Dati par nekustamajiem īpašumiem un tos veidojošajiem fiziskajiem objektiem Kadastra reģistrā tiek ievadīti no sekojošiem dokumentiem:
+30.1. pašvaldības institūciju lēmumiem;
+30.2. zemes komisiju lēmumiem;
+30.3. VZD lēmumiem attiecībā uz nekustamo īpašumu formēšanu;
+30.4. dokumentiem par darījumiem ar nekustamajiem īpašumiem;
+30.5. zemes robežu uzmērīšanas (ierādīšanas) lietām [4, 7];
+30.6. zemes kadastrālās vērtēšanas lietām;
+30.7. VZD nodaļas sagatavotajiem materiāliem par būvju kadastrālo vērtēšanu;
+30.8. VZD nodaļas sagatavotajām būvju un telpu grupu tehniskās inventarizācijas lietām;
+30.9. VZD nodaļas sagatavotajām izziņām par būvju sastāvu;
+30.10. valsts vai pašvaldības institūcijas paziņojumiem par nekustamā īpašuma lietošanas mērķa (mērķu) noteikšanu vai tā izmaiņām [20];
+30.11. citiem dokumentiem attiecībā uz nekustamo īpašumu formēšanu.
+31. Nekustamo īpašumu reģistrēšanai Kadastra reģistrā tiek noteikta sekojoša procedūra:
+31.1. katrs nekustamo īpašumu veidojošais fiziskais objekts tiek iezīmēts Kadastra reģistra grafiskajā daļā;
+31.2. nekustamajam īpašumam tiek piešķirts kadastra numurs, un katram nekustamo īpašumu veidojošajam objektam tiek piešķirts kadastra apzīmējums;
+31.3. dati par nekustamo īpašumu un to veidojošajiem fiziskajiem objektiem tiek ievadīti Kadastra reģistra teksta daļā.
+32. Pēc datu ievades Kadastra reģistrā tiek izdrukāta pilnā Kadastra reģistra izdruka. Nekustamā īpašuma reģistrēšana ir uzskatāma par notikušu tikai pēc ierakstu pilnīguma un pareizības pārbaudes un apliecināšanas (autorizācijas), datu ievades operatoram un atbildīgajai personai parakstot pilno Kadastra reģistra izdruku, un ierakstu par īpašumu atzīmējot kā "pārbaudītu". Pilnā Kadastra reģistra izdruka tiek glabāta nekustamā īpašuma lietā. Pilnās kadastra reģistra izdrukas var tikt izdrukātas pēc vajadzības.
+33. Ierakstu labojumi pēc to autorizācijas nav pieļaujami, izņemot gadījumus, kad kļūdas labošana nerada nekādas sekas attiecībā uz reģistrētajiem nekustamajiem īpašumiem. Ierakstu labošanai tiek noteikta sekojoša procedūra:
+33.1. kļūdainais ieraksts tiek labots, un labotais ieraksts atvieto agrāko ierakstu;
+33.2. nekustamā īpašuma lietā tiek ievietota datu ievades operatora un atbildīgās personas parakstītā labotā ieraksta izdruka;
+33.3. ieraksts par īpašumu tiek atzīmēts kā "pārbaudīts".
+4.2. izmaiņu izdarīšana
+34. Datu par nekustamo īpašumu izmainīšana vai papildināšana pieļaujama tikai uz dokumentu pamata, izdarot par to attiecīgu norādi.
+35. Pamats izmaiņu izdarīšanai Kadastra reģistrā ir:
+35.1. īpašnieka iesniegums, kurā uzrādīto izmaiņu izdarīšanas pamatojumu apliecina valsts un pašvaldību institūciju un licencēto mērnieku sastādītie dokumenti;
+35.2. zemesgrāmatu nodaļas sniegtās ziņas par īpašuma tiesību nostiprināšanu un pāreju;
+35.3. VZD nodaļām iesniegtie:
+35.3.1. jaunie uzmērīšanas dati [7];
+35.3.2. jaunie vērtēšanas dati;
+35.3.3. jaunie būvju un telpu grupu tehniskās inventarizācijas dati;
+35.3.4. attiecīgā rajona lauksaimniecības departamenta un valsts virsmežniecību iesniegtie lēmumi par zemes transformācijas (pārveidošanas) atļaujas izsniegšanu [16];
+35.3.5. pašvaldību informācija par valsts un pašvaldību institūciju darījumiem ar nekustamajiem īpašumiem un pārējo fizisko un juridisko personu iesniegtie "Nekustamā īpašuma īpašnieka vai tiesiskā valdītāja paziņojumi" par darījumiem ar nekustamajiem īpašumiem, ja šie darījumi nav nostiprināti Zemesgrāmatā [22];
+35.3.6. valsts vai pašvaldības institūcijas paziņojumi par nekustamā īpašuma lietošanas mērķa (mērķu) noteikšanu vai tā izmaiņām [20];
+35.4. citu iemeslu dēļ izdarītās kadastrālās izmaiņas, ja par to izdarīšanu ir pieņemti VZD normatīvie dokumenti.
+36. Nekustamā īpašuma lietā tiek ievietota datu ievades operatora un atbildīgās personas parakstītā izmainītā vai papildinātā ieraksta izdruka un dokumenti vai to kopijas, uz kuru pamata izdarītas izmaiņas. Ieraksts par īpašumu tiek atzīmēts kā "pārbaudīts".
+5. Nekustamā īpašuma un to veidojošo fizisko objektu reģistrēšana
+5.1. zemes īpašuma (zemes ar uz tās esošajām ēkām un būvēm) reģistrēšana
+37. Kadastra reģistrā tiek reģistrēta visa administratīvā iedalījuma vienības teritorijā esošā zeme, kura:
+37.1. iegūta īpašuma tiesību atjaunošanas gadījumos;
+37.2. iegūta īpašumā par samaksu privatizācijas gaitā;
+37.3. iegūta darījumu rezultātā saskaņā ar spēkā esošajiem likumiem;
+37.4. iegūta īpašumā uz likuma "Par valsts un pašvaldības zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatā" pamata [6];
+37.5. zemes reformas laikā piešķirta pastāvīgā lietošanā;
+37.6. par kuru pieņemti zemes komisiju atzinumi par īpašuma tiesību atjaunošanu;
+37.7. brīvā, nepieprasītā valsts zeme;
+37.8. ir pieprasīta zemes reformas gaitā, bet ar lēmumiem nav noformēta.
+38. Kadastra numuru piešķiršanas kārtību zemes kadastra vienībai (zemei ar uz tās esošajām ēkām un būvēm) nosaka VZD 1996.gada 10.aprīļa pavēle nr.46 "Par izmaiņām kadastra reģistra kārtošanā" [8]
+39. Kadastra numuru piešķiršanas kārtību lieliem funkcionāli saistītiem objektiem, kuri izvietojas vairākās administratīvi teritoriālā iedalījuma vienībās, un līdz ar to attiecīgi arī vairākās kadastrālajās teritorijās, nosaka VZD 1998.gada 13.augusta rīkojums nr.120 "Par lielu funkcionāli saistītu objektu formēšanas un kadastra numuru piešķiršanas kārtību'' [23].
+40. Zemes īpašumi (arī pilsētās) var sastāvēt no viena vai vairākiem fiziskajiem objektiem - zemes kadastra vienībām. Katrai zemes kadastra vienībai tiek piešķirts kadastra apzīmējums. Par kadastra apzīmējumu zemes kadastra vienībai līdz pilnīgai kadastra apzīmējumu sistēmas ieviešanai izņēmuma kārtā kalpo zemes kadastra vienības kadastra numurs.
+41. Līdz pilnīgai nekustamo īpašumu kadastra apzīmējumu sistēmas ieviešanai visa zemes īpašuma apzīmēšanai kalpo vienas (galvenās) kadastra vienības kadastra numurs.
+42. Kadastra apzīmējums zemes kadastra vienības sastāvā ietilpstošajai būvei tiek piešķirts atbilstoši VZD 1998.gada 10.septembra rīkojumam nr.131 "Par būves kadastra apzīmējuma piešķiršanas kārtību" [24].
+43. Apvienojot zemes kadastra vienības, tiek saglabāts tās zemes kadastra vienības numurs, pie kuras tiek izdarīta pievienošana. Pievienotās kadastra vienības numurs tiek anulēts.
+44. Veidojot jaunas zemes kadastra vienības, tām tiek piešķirti jauni kadastra numuri. Jauno zemes kadastra vienību numurus iegūst, secīgi numurējot visas vienā kadastra grupā (vai vienā kvartālā) ietilpstošās zemes kadastra vienības un piešķirot tām nākamo brīvo kārtas numuru kadastra grupas (vai kvartāla) ietvaros.
+45. Jauna zemes kadastra vienība ir no jauna izveidota vai no esošās zemes kadastra vienības nodalīta atsevišķa zemes kadastra vienība, kuras robežas ir iemērītas vai ierādītas dabā un iezīmētas zemes gabala plānā.
+46. Ja tiek formēta zemes kadastra vienība, kura robežojas ar tam pašam īpašniekam piederošu Kadastra reģistrā reģistrētu īpašumu, tā ir uzskatāma par jaunu zemes kadastra vienību, un tai tiek piešķirts jauns kadastra numurs.
+47. Ja uz īpašnieka iesnieguma pamata zemes īpašums mērniecības darbu rezultātā tiek sadalīts vairākās zemes kadastra vienībās, vienai no zemes kadastra vienībām (galvenajai) tiek saglabāts esošais kadastra numurs, bet jaunajām zemes kadastra vienībām tiek piešķirti jauni kadastra numuri.
+48. Ja darījuma rezultātā no zemes īpašuma, kas sastāv no vairākām atsevišķām zemes kadastra vienībām, tiek atdalīta galvenā zemes kadastra vienība, kuras kadastra numurs reizē kalpo arī par visa zemes īpašuma kadastra numuru, tad atdalītās zemes kadastra vienības kadastra numurs netiek mainīts, bet viens no paliekošo zemes kadastra vienību kadastra numuriem tiek norādīts kā visa paliekošā īpašuma kadastra numurs.
+49. Ja darījuma rezultātā pie zemes īpašuma tiek pievienota zemes kadastra vienība, pievienotās zemes kadastra vienības kadastra numurs netiek mainīts.
+5.2. ēku (būvju) īpašuma reģistrēšana
+50. Ēku (būvju) īpašumu, kas ir patstāvīgs īpašuma tiesību objekts, un atrodas uz svešas zemes, kadastra numuru piešķiršanas kārtību un reģistrēšanu Kadastra reģistrā nosaka VZD 1998.gada 18.marta rīkojums nr.40 "Par pagaidu kārtību kadastra numuru piešķiršanai ēku (būvju) īpašumiem" [19].
+51. Kadastra apzīmējums ēku (būvju) īpašuma sastāvā ietilpstošajai būvei tiek piešķirts atbilstoši VZD 1998.gada 10.septembra rīkojumam nr.131 "Par būves kadastra apzīmējuma piešķiršanas kārtību" [24].
+5.3. dzīvokļa īpašuma reģistrēšana
+52. Dzīvokļa īpašumu (dzīvokļu, mākslinieku darbnīcu un neapdzīvojamo telpu) reģistrēšanu Kadastra reģistrā un kadastra numuru piešķiršanas kārtību dzīvokļa īpašumam nosaka VZD 1998.gada 27.novembra rīkojums nr.229 "Par kadastra numuru piešķiršanas kārtību dzīvokļa īpašumam" [27].
+53. Dzīvokļa īpašumu (dzīvokļu, mākslinieku darbnīcu un neapdzīvojamo telpu) līdz dzīvojamās mājas privatizācijai reģistrēšanu Kadastra reģistrā un kadastra numuru piešķiršanas kārtību nosaka:
+53.1. ar VZD 1996.gada 15.maija pavēli nr.70 apstiprinātā "Instrukcija par dzīvokļu īpašumu līdz dzīvojamās mājas privatizācijai reģistrāciju Valsts zemes dienesta kadastra reģistrā" [10];
+53.2. ar VZD 1996.gada 4.decembra rīkojumu nr.72 apstiprinātie "Papildinājumi un izmaiņas instrukcijā par dzīvokļu īpašuma līdz dzīvojamās mājas privatizācijai reģistrāciju Valsts zemes dienesta kadastra reģistrā" [13].
+54. Dzīvokļa īpašumus veidojošo fizisko objektu - atsevišķu telpu grupu kadastra apzīmējumu piešķiršanas kārtību nosaka atsevišķi VZD normatīvie dokumenti.
+6. Kadastra reģistra grafiskā daļa
+55. Kadastra reģistra grafiskā daļa tiek kārtota atbilstoši VZD 1998.gada 9.jūnija rīkojumā nr. 86 apstiprinātajiem "Kadastra reģistra grafiskās daļas kārtošanas pagaidu noteikumiem" [21].
+7. Kadastrālo vērtību ievadīšana Kadastra reģistrā
+56. Zemes īpašumu kadastrālo vērtību ievadīšana Kadastra reģistrā tiek veikta atbilstoši VZD 1996.gada 27.septembra rīkojumam nr.6 "Par nekustamā īpašuma kadastra reģistra papildināšanu ar nekustamo īpašumu un lietojumu zemes kadastrālajām vērtībām" [12].
+57. Būvju īpašumu un dzīvokļu īpašumu kadastrālo vērtību ievadīšanu Kadastra reģistrā nosaka atsevišķi VZD normatīvie dokumenti.
+8. Kadastra reģistra uzraudzība un reģistrācijas kvalitātes kontrole
+58. VZD nodaļas līdz katra mēneša 5.datumam (pēc stāvokļa uz katra mēneša 1.datumu) Kadastra centram iesniedz Kadastra reģistra datu kopijas.
+59. Kadastra centrs veic VZD nodaļās sagatavoto kadastra reģistra datu kvalitātes pārbaudi, sniedz metodisku un tehnisku palīdzību, un nepieciešamības gadījumos veic VZD nodaļu darbinieku apmācību.
+60. Kadastra centrs ir atbildīgs par:
+60.1. Kadastra reģistra centrālās datu bāzes (teksta daļas un grafiskās daļas) izveidošanu un uzturēšanu;
+60.2. VZD nodaļu Kadastra reģistra datu kvantitatīvo un kvalitatīvo analīzi;
+60.3. zemes bilances sastādīšanu;
+60.4. vienotas kadastra reģistra programmatūras izstrādāšanu un tās funkcionēšanas nodrošināšanu.
+61. Kadastra centram nav tiesību izdarīt izmaiņas no VZD nodaļām saņemtajos Kadastra reģistra datos (teksta daļā un grafiskajā daļā). Par konstatētajām kļūdām vai nepilnībām Kadastra centrs ziņo attiecīgajai VZD nodaļai.
+62. Ja tiek apdraudēta Kadastra reģistra darbība VZD nodaļā vai arī Kadastra reģistrs (teksta vai grafiskā daļa) nefunkcionē ilgāk par vienu darba dienu, VZD nodaļas vadītājs nekavējoties ziņo Kadastra centram. Kadastra centrs pieņem neatliekamus mērus konstatēto Kadastra reģistra darbības traucējumu novēršanai.
+63. Reģistrācijas kvalitāti Kadastra reģistrā atbilstoši VZD apstiprinātajiem normatīvajiem dokumentiem kontrolē VZD Tehniskās uzraudzības daļa.
+9. Datu apmaiņa starp Kadastra reģistru un citiem reģistriem
+64. Kadastra reģistrs citiem reģistriem un informācijas sistēmām elektroniskā vai datorizdruku veidā sniedz oficiālo informāciju par nekustamajiem īpašumiem un tos veidojošajiem fiziskajiem objektiem [3].
+65. Kā sasaite starp dažādiem reģistriem un informācijas sistēmām kalpo:
+65.1. nekustamā īpašuma kadastra numurs;
+65.2. fiziskajām personām - personas kods (atsevišķos gadījumos - vārds, uzvārds);
+65.3. juridiskajām personām (arī valsts un pašvaldību institūcijām) - nosaukums un identifikācijas kods (nodokļu maksātāja kods vai, ja tāda nav, cits unikāls identifikators).
+66. Kadastra reģistrā tiek reģistrēti likumdošanā noteiktajā kārtībā zemesgrāmatu nodaļu piesūtītie dati.
+Gadījumos, kad ir notikušas izmaiņas ar īpašumu, kura īpašuma tiesības ir nostiprinātas zemesgrāmatā, piemēram, uz īpašnieka iesnieguma pamata mērniecības darbu rezultātā tas ir sadalīts vairākās kadastra vienībās vai ir precizēta tā platība, ir iegūti jauni uzmērīšanas un vērtēšanas dati, ir iesniegti lēmumi par zemes transformācijas (pārveidošanas) atļaujas izsniegšanu, kā arī citu iemeslu ir notikušas kadastrālās izmaiņas, VZD nodaļa (pēc attiecīgas VZD un Tieslietu ministrijas vienošanās noslēgšanas) ar savu iesniegumu regulāri griežas attiecīgajā zemesgrāmatu nodaļā.
+67. Kadastra reģistrs izmanto savai darbībai nepieciešamos citu valsts reģistru un informācijas sistēmu datus.
+10. Kadastra reģistra datu lietotāji, to pienākumi un tiesības
+68. Kadastra reģistra datu lietotāji ir visas valsts un pašvaldību institūcijas un fiziskās un juridiskās personas.
+69. Kadastra reģistra datu lietotājiem ir tiesības pieprasīt un saņemt kadastra informāciju par Kadastra reģistrā reģistrētajiem nekustamajiem īpašumiem un tos veidojošajiem fiziskajiem objektiem.
+70. Nekustamā īpašuma īpašniekiem par savu īpašumu, kā arī valsts un pašvaldību iestādēm un uzņēmumiem savas kompetences ietvaros bez maksas ir pieejami dati par tos interesējošiem nekustamajiem īpašumiem vai tos veidojošajiem fiziskajiem objektiem, pamatojot savas vajadzības iesniegumā, kurš tiek reģistrēts VZD nodaļas noteiktajā kārtībā.
+71. Pārējām fiziskajām un juridiskajām personām kadastra dati par tos interesējošiem nekustamajiem īpašumiem vai tos veidojošajiem fiziskajiem objektiem ir pieejami par maksu, pamatojot savas vajadzības iesniegumā, kurš tiek reģistrēts VZD nodaļas noteiktajā kārtībā.
+ 
+11. Kadastra reģistra datu glabāšana un izmantošana
+72. Publicētie kadastra reģistra pārskati un datu apkopojumi ir atklāti un brīvi pieejami visiem interesentiem [9].
+73. Kadastra reģistra teksta un grafiskā daļas dati tiek glabāti VZD nodaļās, un centrālā datu bāze - Kadastra centrā.
+74. Dokumenti, uz kuru pamata ir izdarīta nekustamo īpašumu reģistrācija, ierakstu izmainīšana vai papildināšana, kā arī pilnās Kadastra reģistra izdrukas un izmainīto un papildināto ierakstu izdrukas tiek glabāti VZD nodaļās par katru nekustamo īpašumu iekārtotajās nekustamo īpašumu lietās.
+75. Kadastra reģistra datu pavairošanas, apstrādāšanas, publicēšanas un nodošanas trešajām personām kārtību nosaka Valsts zemes dienests.
+12. Kadastra reģistra datu glabāšanas drošība
+76. Par kadastra reģistra datu drošību un datu rezerves kopiju veidošanu un glabāšanu ir atbildīga VZD nodaļa.
+77. Datu rezerves kopēšana uz datu nesējiem tiek veikta katru dienu, nokopējot visu datu bāzi, katrai nedēļas dienai rezervējot savu magnētisko datu nesēju.
+Vienu reizi divās nedēļās, un pirms katras datu sūtīšanas uz Kadastra centru, obligāti jāveic datu kvalitātes un loģiskās saderības kontrole un konstatēto kļūdu labošana.
+78. Par centrālās datu bāzes datu drošību un datu rezerves kopiju veidošanu un glabāšanu ir atbildīgs Kadastra centrs.
+13. Kadastra reģistra uzziņa par nekustamo īpašumu
+79. Kadastra reģistra uzziņu par nekustamo īpašumu pēc apstiprinātām formām VZD nodaļa no nodaļas datu bāzes, un Kadastra centrs no centrālas datu bāzes izsniedz valsts un pašvaldības iestādēm, fiziskajām un juridiskajām personām pēc to pieprasījuma.
+80. Kadastra reģistra uzziņa tiek izgatavota datorizēti, un tajā tiek apkopota oficiālā kadastra reģistra informācija.
+81. Kadastra reģistra uzziņā dati tiek izkārtoti pa iedalījumiem. Katrs iedalījums satur noteikta veida ziņas par nekustamo īpašumu un to veidojošajiem fiziskajiem objektiem.
+82. Izsniegtās kadastra uzziņas tiek reģistrētas.
+83. Kadastra reģistra uzziņu paraksta VZD nodaļas vadītājs un kadastra daļas vadītājs.
+Nolikumā minētie dokumenti:
+1. LR 1937.gada 22.decembra likums "Zemesgrāmatu likums", (grozījumi 13.03.40., 30.03.93., 09.04.96., 20.02.97.);
+2. LR Augstākās Padomes Prezidija 1983.gada 24.februāra dekrēts "Par Latvijas administratīvi teritoriālo iedalījumu";
+3. LR 1992.gada 15.decembra likums "Par valsts zemes dienestu" (grozījumi 20.10.94);
+4. ar VZD 1994.gada 26.maija pavēli nr.40 apstiprinātie "Tehniskie norādījumi zemes īpašumu (lietojumu) robežu ierādīšanai dabā" (grozījumi 30.10.95.);
+5. ar VZD 1994.gada 8.decembra pavēli apstiprinātā "Digitālās kadastra kartes specifikācija";
+6. LR 1995.gada 11.aprīļa likums "Par valsts un pašvaldības zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatā";
+7. ar VZD 1995.gada 1.augusta pavēli nr.59 apstiprinātā "Robežu uzmērīšanas tehniskā instrukcija";
+8. VZD 1996.gada 10.aprīļa pavēle nr.46 "Par izmaiņām kadastra reģistra kārtošanā";
+9. LR Ministru Kabineta 1996.g. 30.aprīļa noteikumi nr 158 (prot.nr.24 15.§) "Nekustamā īpašuma valsts kadastra noteikumi" (grozījumi 05.05.98.);
+10. ar VZD 1996.gada 15.maija pavēli nr.70 apstiprinātā "Instrukcija par dzīvokļu īpašumu līdz dzīvojamās mājas privatizācijai reģistrāciju Valsts zemes dienesta kadastra reģistrā";
+11. ar VZD 1996.gada 21.jūnija pavēli nr.160 apstiprinātā "Digitālās kadastra kartes specifikācija";
+12. VZD 1996.gada 27.septembra rīkojums nr.6 "Par nekustamā īpašuma kadastra reģistra papildināšanu ar nekustamo īpašumu un lietojumu zemes kadastrālajām vērtībām";
+13. ar VZD 1996.gada 4.decembra rīkojumu nr.72 apstiprinātie "Papildinājumi un izmaiņas instrukcijā par dzīvokļu īpašuma līdz dzīvojamās mājas privatizācijai reģistrāciju Valsts zemes dienesta kadastra reģistrā";
+14. LR 1997.gada 20.februāra likums "Par nekustamā īpašuma ierakstīšanu zemesgrāmatās";
+15. LR 1997.gada 17.jūnija likums "Par nekustamā īpašuma nodokli";
+16. LR Ministru Kabineta 1997.gada 12.augusta noteikumi nr. 300 (prot.nr.44 10.§) "Zemes transformācijas (pārveidošanas) atļaujas izsniegšanas kārtība";
+17. VZD Latvijas zemes kadastra centra 1997.gada 1.oktobra rīkojums nr. 243/9.1-08.1 "Par kadastra reģistrā lietojamo klasifikatoru papildināšanu";
+18. 1998.gada 24.februāra rīkojums nr. 31 "Par kadastrālo teritoriju klasifikatoru (KTK)";
+19. VZD 1998.gada 18.marta rīkojums nr.40 "Par pagaidu kārtību kadastra numuru piešķiršanai ēku (būvju) īpašumiem";
+20. LR Ministru Kabineta 1998.gada 5.maija noteikumi nr.166 (prot.nr.23, 14.§) "Nekustamā īpašuma lietošanas mērķu klasifikācija";
+21. ar VZD 1998.gada 9.jūnija rīkojumu nr 86 apstiprinātie "Kadastra reģistra grafiskās daļas kārtošanas pagaidu noteikumi";
+22. LR Ministru Kabineta 1998.gada 9.jūnija noteikumi nr.214 (prot.nr.29, 9.§) "Pilsētu zemes kadastrālās vērtēšanas noteikumi";
+23. VZD 1998.gada 13.augusta rīkojums nr.120 "Par lielu funkcionāli saistītu objektu formēšanas un kadastra numuru piešķiršanas kārtību";
+24. VZD 1998.gada 10.septembra rīkojums nr.131 "Par būves kadastra apzīmējuma piešķiršanas kārtību";
+25. LR 1998.gada 4.novembra likums "Grozījumi Zemesgrāmatu likumā";
+26. LR 1998.gada 11.novembra likums "Grozījumi likumā "Par nekustamā īpašuma nodokli"";
+27. VZD 1998.gada 27.novembra rīkojums nr.229 "Par kadastra numuru piešķiršanas kārtību dzīvokļa īpašumam";
+28. Programmu lietošanas instrukcija (versija 3.3.0.);
+29. Datu struktūra (versija 3.3.0.);
+30. Klasifikatori (versija 3.3.0.);
+31. Datu bāzes administrēšana (versija 3.3.0.).
+Latvijas zemes kadastra centra direktora vietniece G.Slūka
+ 
+Par Nekustamā īpašuma valsts kadastra reģistra kārtošanas nolikumu
+Nekustamā īpašuma valsts kadastra reģistra kārtošanas nolikums

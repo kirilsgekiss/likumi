@@ -1,0 +1,54 @@
+Statuss: zaudējis spēku
+Ministru kabineta noteikumi Nr.10
+Rīgā 2000.gada 7.janvārī (prot. Nr. 2, 6.§)
+Izdoti Latvijas Republikas Satversmes 81.panta kārtībā
+ 
+Izdarīt likumā "Par valsts un pašvaldību pasūtījumu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 23.nr.; 1998, 15.nr.) šādus grozījumus:
+1. Izteikt 12.pantu šādā redakcijā:
+"12.pants. Nosacījumi, ar kādiem tiek izskatīts tikai viens piedāvājums
+(1) Valsts pasūtītājs var slēgt valsts pasūtījuma līgumu, izskatot tikai vienu piedāvājumu, ja:
+1) ir iespējams iepirkt preces vai saņemt pakalpojumus tikai no viena pretendenta un nav citas pamatotas alternatīvas vai aizvietotāju;
+2) preces vai pakalpojumi ir steidzami nepieciešami, tādēļ iesaistīšanās izsolē ir neiespējama vai nepamatota - ar nosacījumu, ka apstākļus, kuri radīja šo steidzamo nepieciešamību, valsts pasūtītājs nevarēja iepriekš paredzēt;
+3) ir radušies nepārvarami apstākļi vai ārkārtas situācija, tāpēc nav iespējams izmantot citas valsts pasūtījuma piešķiršanas metodes, kam nepieciešams ilgāks laiks;
+4) pasūtītājs, kura rīcībā jau ir no kāda piegādātāja iepirktās preces, iekārta vai tehnoloģija, nosaka, ka papildu piegādei jāizmanto iepirkums no tā paša piegādātāja standartizācijas apsvērumu dēļ vai tādēļ, lai nodrošinātu tehnisko savienojamību ar jau iepirktajām precēm, iekārtu un tehnoloģiju, ņemot vērā sākotnējā iepirkuma efektivitāti valsts pasūtītāja vajadzību apmierināšanā, lai ierobežotu papildu iepirkuma lielumu salīdzinājumā ar sākotnējo iepirkumu, kā arī ja ir pamatotas cenas un nav pieņemamas alternatīvas;
+5) pasūtītājs vēlas slēgt līgumu, lai veiktu pētniecības darbus, eksperimentus vai ar tiem saistītās mācības, vai pilnveidošanu, kas noved pie prototipa iepirkšanas, kā arī pētniecības darbus, metodiku un normatīvu projektu izstrādi un mācības, kuru paredzamā vērtība nepārsniedz 5000 latu.
+(2) Ja valsts pasūtījuma paredzamā vērtība vai valsts vai pašvaldības pasūtījuma paredzamais apjoms daļējas finansēšanas gadījumā preču piegādei vai pakalpojumu sniegšanai ir lielāks par 5000 latu vai būvdarbiem - lielāks par 50000 latu, vai būvprojektēšanai - lielāks par 10000 latu, paziņojumu par viena piedāvājuma izskatīšanu un šāda lēmuma pieņemšanas motīvus valsts pasūtītājs nākamajā dienā pēc lēmuma pieņemšanas nosūta Finansu ministrijai."
+2. Izteikt 14.pantu šādā redakcijā:
+"14.pants. Izsoles uzaicinājuma un uzaicinājuma uz iepriekšēju kvalifikācijas pārbaudi izsludināšanas procedūra
+(1) Izsoles uzaicinājumu par preču piegādes, būvdarbu, būvprojektēšanas vai pakalpojumu sniegšanas tiesībām un uzaicinājumu uz iepriekšēju kvalifikācijas pārbaudi (ja tāda paredzēta) sagatavo un iesniedz Finansu ministrijā valsts pasūtītājs. Finansu ministrija divu darbadienu laikā pēc iesnieguma saņemšanas pārbauda izsoles uzaicinājuma saturu un, ja tas atbilst šā likuma 15.panta prasībām, ievieto uzaicinājumu tīklā "Internet". Ja uzaicinājums neatbilst minētajām prasībām, Finansu ministrija pieprasa paskaidrojumus vai papildinājumus un pēc to saņemšanas ievieto šā likuma 15.panta prasībām atbilstošu uzaicinājumu tīklā "Internet".
+(2) Izsoles uzaicinājumu un uzaicinājumu uz iepriekšēju kvalifikācijas pārbaudi valsts pasūtītājs izsludina laikrakstā "Latvijas Vēstnesis". Ja preču piegādes vai pakalpojumu paredzamā vērtība pārsniedz 500000 latu vai ja būvdarbu vērtība pārsniedz 4000000 latu, uzaicinājumu uz izsoli izsludina arī kādā starptautiskā preses izdevumā vai attiecīgās nozares izdevumā.
+(3) Pirmo sludinājumu ar šā likuma 15.panta prasībām atbilstošu uzaicinājumu uz izsoli publicē laikus, ne vēlāk kā 40 dienas pirms piedāvājumu atvēršanas izsolē. Izņēmuma gadījumos, kad preču piegāde, būvdarbu veikšana vai pakalpojumu sniegšana ir steidzama, šo termiņu var saīsināt līdz 10 dienām. Ja uzaicinājums uz izsoli ir publicēts vairākos preses izdevumos, termiņu sāk skaitīt no publikācijas dienas laikrakstā "Latvijas Vēstnesis"."
+3. Izteikt 24.pantu šādā redakcijā:
+"24.pants. Valsts pasūtījuma piešķiršana uz konkursa pamata
+(1) Konkurss var būt atklāts (pretendentu loks nav ierobežots) vai slēgts (pretendentu loks ir ierobežots).
+(2) Lēmumu par slēgta konkursa rīkošanu valsts pasūtītājs pieņem, ja, izvērtējot iespējamos pretendentus, secina, ka tikai nedaudziem no tiem ir pietiekama kvalifikācija sarežģīta valsts pasūtījuma veikšanai. Šie apstākļi jāatspoguļo konkursa dokumentācijā.
+(3) Uzaicinājumā iesniegt konkursam priekšlikumus norāda:
+1) kāda produkcija jāpiegādā vai kādi darbi jāveic, minot tehniskos raksturojumus;
+2) piegādājamās produkcijas vai veicamo darbu izpildes vietu un termiņu;
+3) piedāvājumu pieņemšanas termiņu (dienu un stundu), pēc kura nekādus piedāvājumus vairs neņem vērā;
+4) kādā veidā un kur var iepazīties ar vispārīgajiem un tehniskajiem darbu veikšanas un produkcijas piegādes nosacījumiem, būvprojektiem un citu dokumentāciju;
+5) kādā veidā valsts pasūtītājam, kas organizē konkursu, ir tiesības, slēdzot valsts pasūtījuma līgumu, izvēlēties darbu vai piegāžu veicēju pēc saviem ieskatiem, neņemot vērā pieteiktās cenas.
+(4) Konkursu organizējot, jānosaka, ir vai nav iemaksājams piedāvājuma nodrošinājums.
+(5) Konkursa uzaicinājuma sagatavošana un publicēšana notiek šādā kārtībā:
+1) valsts pasūtītājs sagatavo brīvā formā veidotu uzaicinājumu piedalīties atklātā konkursā vai paziņojumu par slēgtu konkursu, norādot pamatojumu slēgta konkursa izvēlei, un nosūta uzaicinājumu vai paziņojumu Finansu ministrijai. Finansu ministrija divu darbadienu laikā pēc uzaicinājuma saņemšanas pārbauda tā saturu un, ja uzaicinājums atbilst šā panta trešās daļas prasībām, ievieto to tīklā "Internet". Ja uzaicinājums neatbilst šā panta trešās daļas prasībām, Finansu ministrija pieprasa paskaidrojumus vai papildinājumus un pēc to saņemšanas ievieto minētajām prasībām atbilstošu uzaicinājumu tīklā "Internet". Paziņojumu par slēgtu konkursu Finansu ministrija ievieto tīklā "Internet";
+2) pirmo sludinājumu ar uzaicinājumu piedalīties atklātā konkursā publicē laikrakstā "Latvijas Vēstnesis" ne vēlāk kā 40 dienas pirms konkursa piedāvājumu atvēršanas. Izņēmuma gadījumos, kad preču piegāde, būvdarbu veikšana vai pakalpojumu sniegšana ir steidzama, šo termiņu var saīsināt līdz 10 dienām;
+3) uzaicinājumu piedalīties slēgtā konkursā nosūta ierakstītā vēstulē vairākiem iespējamajiem pretendentiem (vismaz trijiem).
+(6) Valsts pasūtītājs nosaka kritērijus, pēc kuriem novērtēs piedāvājumus, un katra kritērija īpatsvaru, kā arī kritēriju izmantošanas metodi piedāvājumu novērtēšanā.
+(7) Konkursa piedāvājumu atvēršanas dienā komisija parakstās uz iesniegtajiem rakstiskajiem piedāvājumiem un sastāda piedāvājumu sarakstu.
+(8) Pēc uzaicinājumā noteiktās dienas un stundas komisija jaunus piedāvājumus vai papildu paziņojumus no konkursa dalībniekiem nepieņem. Komisijai un valsts pasūtītājam ir tiesības prasīt no konkursa dalībniekiem mutiskus vai rakstiskus paskaidrojumus attiecībā uz viņu iesniegumiem.
+(9) Izvērtējot konkursā iesniegtos piedāvājumus, valsts pasūtītājs izvēlas izdevīgākos piedāvājumus. Turklāt valsts pasūtītājs var ņemt vērā ne vien pieteiktās zemākās darbu vai piegāžu izpildes cenas, bet arī uzņēmēja uzticamību, viņa agrāk izpildīto darbu un piegāžu kvalitāti, piedāvātās produkcijas īpašības, darbu izpildes steidzamību, kā arī tautsaimniecības intereses. Šādā gadījumā protokolā vai lēmumā jānorāda motīvi, kādēļ izraudzīti konkrēti piegādātāji vai uzņēmēji. Ja konkursā iesniegts tikai viens darbu vai piegāžu izpildes piedāvājums un ja tas ir izdevīgs un atbilst konkursa nosacījumiem, valsts pasūtītājs darbu vai piegāžu izpildi var uzticēt šim pretendentam.
+(10) Pēc tam, kad valsts pasūtītājs izvēlējies vienu vai vairākus izdevīgākos piedāvājumus, tam ir tiesības rīkot sarunas ar šo piedāvājumu iesniedzējiem, lai precizētu piedāvājumu detaļas un uzzinātu pretendentu domas par iespējām daļēji grozīt viņu iesniegtos risinājumus. Ir jānodrošina šo sarunu konfidencialitāte.
+(11) Pēc izdevīgāko piedāvājumu izskatīšanas un sarunu (ja tādas notikušas) rezultātu analīzes valsts pasūtītājs izvēlas sev visizdevīgāko risinājumu, izstrādā izsoles nolikumu un uz tā pamata izsludina izsoli, dodot iespēju tajā piedalīties arī citiem pretendentiem, kuri nebija iesnieguši piedāvājumus konkursam.
+(12) Pretendentam, kurš nepiekrīt valsts pasūtītāja izstrādātajam izsoles nolikumam, ir tiesības atteikties no tālākas līdzdalības konkursā, nezaudējot iemaksāto nodrošinājumu.
+(13) Konkursa sagatavošanas un norises kārtību atbilstoši šim likumam nosaka Ministru kabinets."
+4. 26.pantā:
+izteikt otro daļu šādā redakcijā:
+"(2) Valsts pasūtījuma līguma projektu rakstiski sagatavo un iesniedz valsts pasūtītājs. Līguma projektu vai tā galvenos noteikumus iekļauj izsoles (konkursa) nolikumā.";
+izteikt ceturto daļu šādā redakcijā:
+"(4) Sagatavojot valsts pasūtījuma līgumu būvdarbiem, kuru paredzamā vērtība pārsniedz 1000000 latu, piemēro Latvijas nacionālo standartu."
+Pārejas noteikums
+Grozījums likuma "Par valsts un pašvaldību pasūtījumu" 26.panta ceturtajā daļā stājas spēkā 2000.gada 1.jūlijā.
+ 
+Ministru prezidents A.Šķēle
+Finansu ministrs E.Krastiņš
+Grozījumi likumā "Par valsts un pašvaldību pasūtījumu"
